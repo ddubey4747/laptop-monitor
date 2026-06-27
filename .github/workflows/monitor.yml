@@ -3,6 +3,9 @@ name: Laptop Outlet Monitor
 on:
   schedule:
     - cron: '30 * * * *'  # Runs every hour at minute 30
+  push:
+    branches:
+      - main
   workflow_dispatch:      # Allows manual execution from the GitHub Actions tab
 
 permissions:

@@ -1,0 +1,334 @@
+{
+  "lenovo": {
+    "21jkr007r0": {
+      "name": "ThinkPad E14 - Intel i3, 8 GB RAM, 512 SSD",
+      "part_number": "21jkr007r0",
+      "price_current": "Rs. 49,090",
+      "price_original": "Rs. 75,656",
+      "link": "https://www.lenovo.com/in/outletin/en/p/laptops/thinkpad/thinkpade/thinkpad-e14-gen-5-14-inch-intel/21jkr007r0",
+      "status": "In Stock"
+    },
+    "83dtr000r0": {
+      "name": "IdeaPad 5 (2-in-1) 14 - Core 5, 16 GB RAM, 512 SSD",
+      "part_number": "83dtr000r0",
+      "price_current": "Rs. 56,090",
+      "price_original": "Rs. 1,09,891",
+      "link": "https://www.lenovo.com/in/outletin/en/p/laptops/ideapad/ideapad-500-series/lenovo-ideapad-5i-2-in-1-gen-9-14-inch-intel/83dtr000r0",
+      "status": "In Stock"
+    },
+    "82xmr008r0": {
+      "name": "IdeaPad Slim 3 15 - AMD Ryzen 5, 16 GB RAM, 512 SSD",
+      "part_number": "82xmr008r0",
+      "price_current": "Rs. 58,191",
+      "price_original": "Rs. 63,526",
+      "link": "https://www.lenovo.com/in/outletin/en/p/laptops/ideapad/ideapad-s-series/ideapad-slim-3-gen-8-15-inch-amd/82xmr008r0",
+      "status": "In Stock"
+    },
+    "21m7r00br0": {
+      "name": "ThinkPad E14 - Ultra 5, 16 GB RAM, 512 SSD",
+      "part_number": "21m7r00br0",
+      "price_current": "Rs. 80,890",
+      "price_original": "Rs. 1,09,125",
+      "link": "https://www.lenovo.com/in/outletin/en/p/laptops/thinkpad/thinkpade/lenovo-thinkpad-e14-gen-6-14-inch-intel/21m7r00br0",
+      "status": "In Stock"
+    },
+    "20y0r00wr0": {
+      "name": "ThinkPad X1 Yoga - Intel i7, 16 GB RAM, 1TB SSD",
+      "part_number": "20y0r00wr0",
+      "price_current": "Rs. 1,58,991",
+      "price_original": "Rs. 2,83,431",
+      "link": "https://www.lenovo.com/in/outletin/en/p/laptops/thinkpad/thinkpadyoga/22tp2x1x1y6/20y0r00wr0",
+      "status": "In Stock"
+    },
+    "82v7r004r0": {
+      "name": "IdeaPad 1 15 - N4020, 8 GB RAM, 256 SSD",
+      "part_number": "82v7r004r0",
+      "price_current": "Rs. 16,891",
+      "price_original": "Rs. 37,918",
+      "link": "https://www.lenovo.com/in/outletin/en/p/laptops/ideapad/ideapad-100/ideapad-1i-gen-7-(15-inch-intel)/82v7r004r0",
+      "status": "In Stock"
+    },
+    "82xmr00kr0": {
+      "name": "IdeaPad Slim 3 15 - AMD Ryzen 5, 8 GB RAM, 512 SSD",
+      "part_number": "82xmr00kr0",
+      "price_current": "Rs. 31,191",
+      "price_original": "Rs. 54,699",
+      "link": "https://www.lenovo.com/in/outletin/en/p/laptops/ideapad/ideapad-s-series/ideapad-slim-3-gen-8-15-inch-amd/82xmr00kr0",
+      "status": "In Stock"
+    },
+    "82yur001r0": {
+      "name": "Lenovo V15 - AMD Ryzen 3, 8 GB RAM, 512 SSD",
+      "part_number": "82yur001r0",
+      "price_current": "Rs. 33,491",
+      "price_original": "Rs. 33,951",
+      "link": "https://www.lenovo.com/in/outletin/en/p/laptops/lenovo-laptops/v-series/lenovo-v15-gen-4-15-inch-amd/82yur001r0",
+      "status": "In Stock"
+    },
+    "82xmr00ir0": {
+      "name": "IdeaPad Slim 3 15 - AMD Ryzen 5, 16 GB RAM, 512 SSD",
+      "part_number": "82xmr00ir0",
+      "price_current": "Rs. 34,391",
+      "price_original": "Rs. 58,482",
+      "link": "https://www.lenovo.com/in/outletin/en/p/laptops/ideapad/ideapad-s-series/ideapad-slim-3-gen-8-15-inch-amd/82xmr00ir0",
+      "status": "In Stock"
+    },
+    "82k1r003r0": {
+      "name": "IdeaPad Gaming 3 15 - Intel i5, 8 GB RAM, 512 SSD",
+      "part_number": "82k1r003r0",
+      "price_current": "Rs. 34,691",
+      "price_original": "Rs. 76,912",
+      "link": "https://www.lenovo.com/in/outletin/en/p/laptops/ideapad/ideapad-gaming-laptops/ideapad-gaming-3i-gen-6-15-intel/82k1r003r0",
+      "status": "In Stock"
+    }
+  },
+  "asus": {
+    "90NR0BI1-M002Y0-RF": {
+      "name": "ASUS ROG Zephyrus Duo 16 GX650PY-NM052WS (Refurbished Laptop)",
+      "part_number": "90NR0BI1-M002Y0-RF",
+      "price_current": "Rs. 251,993.00",
+      "price_original": "Rs. 479,990.00",
+      "link": "https://in.store.asus.com/gaming-laptop-rog-zephyrus-duo-16-gx650py-nm052ws-refurbished-laptop.html",
+      "status": "Out of Stock"
+    },
+    "90NB0TM1-M03540-RF": {
+      "name": "Asus Vivobook S 14 M433UA-EB583TS (Refurbished Laptop)",
+      "part_number": "90NB0TM1-M03540-RF",
+      "price_current": "Rs. 46,193.00",
+      "price_original": "Rs. 81,990.00",
+      "link": "https://in.store.asus.com/asus-vivobook-s-14-m433ua-eb583ts-refurbished-laptop.html",
+      "status": "In Stock"
+    },
+    "90NB0ZT1-M001K0-RF": {
+      "name": "ASUS Vivobook Go 15 E1504GA-NJ321WS (Refurbished Laptop)",
+      "part_number": "90NB0ZT1-M001K0-RF",
+      "price_current": "Rs. 27,992.00",
+      "price_original": "Rs. 50,990.00",
+      "link": "https://in.store.asus.com/student-laptop-asus-vivobook-go-15-oled-e1504ga-nj321ws-refurbished-laptop.html",
+      "status": "Out of Stock"
+    },
+    "90NB10N2-M02DW0-RF": {
+      "name": "ASUS Vivobook 16 X1605VA-SH1952WS (Refurbished Laptop)",
+      "part_number": "90NB10N2-M02DW0-RF",
+      "price_current": "Rs. 54,392.00",
+      "price_original": "Rs. 84,990.00",
+      "link": "https://in.store.asus.com/light-weight-laptop-asus-vivobook-16-x1605va-sh1952ws-refurbished-laptop.html",
+      "status": "Out of Stock"
+    },
+    "90NB10W2-M005B0-RF": {
+      "name": "ASUS Vivobook S14 Flip TP3402VAB-LZ542WS (Refurbished Laptop)",
+      "part_number": "90NB10W2-M005B0-RF",
+      "price_current": "Rs. 62,392.00",
+      "price_original": "Rs. 98,990.00",
+      "link": "https://in.store.asus.com/gaming-laptop-asus-vivobook-s14-flip-tp3402vab-lz542ws-refurbished-laptop.html",
+      "status": "In Stock"
+    },
+    "90NB14F2-M00JF0-RF": {
+      "name": "ASUS Zenbook S 14 OLED UX5406SA-PV356WS (Refurbished Laptop)",
+      "part_number": "90NB14F2-M00JF0-RF",
+      "price_current": "Rs. 94,493.00",
+      "price_original": "Rs. 174,990.00",
+      "link": "https://in.store.asus.com/intel-ai-powered-laptop-asus-zenbook-s-14-oled-ux5406sa-pv356ws-refurbished-laptop.html",
+      "status": "In Stock"
+    },
+    "90NB14F3-M00JC0-RF": {
+      "name": "ASUS Zenbook S 14 OLED UX5406SA-PZ357WS (Refurbished Laptop)",
+      "part_number": "90NB14F3-M00JC0-RF",
+      "price_current": "Rs. 104,993.00",
+      "price_original": "Rs. 182,990.00",
+      "link": "https://in.store.asus.com/intel-ai-powered-laptop-asus-zenbook-s-14-oled-ux5406sa-pz357ws-refurbished-laptop.html",
+      "status": "Out of Stock"
+    },
+    "90NB14F4-M00JD0-RF": {
+      "name": "ASUS Zenbook S 14 OLED UX5406SA-PZ358WS (Refurbished Laptop)",
+      "part_number": "90NB14F4-M00JD0-RF",
+      "price_current": "Rs. 104,993.00",
+      "price_original": "Rs. 182,990.00",
+      "link": "https://in.store.asus.com/intel-ai-powered-laptop-asus-zenbook-s-14-oled-ux5406sa-pz358ws-refurbished-laptop.html",
+      "status": "In Stock"
+    },
+    "90NB14F4-M00N40-RF": {
+      "name": "ASUS Zenbook S 14 OLED UX5406SA-PZ7762WS;Copilot+ PC(Refurbished Laptop)",
+      "part_number": "90NB14F4-M00N40-RF",
+      "price_current": "Rs. 104,993.00",
+      "price_original": "Rs. 182,990.00",
+      "link": "https://in.store.asus.com/intel-ai-powered-laptop-asus-zenbook-s-14-oled-ux5406sa-pz7762ws-refurbished-laptop.html",
+      "status": "Out of Stock"
+    },
+    "90NB1501-M00FK0-RF": {
+      "name": "ASUS Zenbook A14 OLED UX3407QA-QD258WS;Copilot+ PC(Refurbished Laptop)",
+      "part_number": "90NB1501-M00FK0-RF",
+      "price_current": "Rs. 65,093.00",
+      "price_original": "Rs. 122,990.00",
+      "link": "https://in.store.asus.com/ai-powered-light-weight-laptop-asus-zenbook-a14-ux3407qa-qd258ws-refurbished-laptop.html",
+      "status": "In Stock"
+    },
+    "90NB1502-M00FL0-RF": {
+      "name": "ASUS Zenbook A14 OLED UX3407QA-QD259WS;Copilot+ PC(Refurbished Laptop)",
+      "part_number": "90NB1502-M00FL0-RF",
+      "price_current": "Rs. 65,093.00",
+      "price_original": "Rs. 122,990.00",
+      "link": "https://in.store.asus.com/ai-powered-light-weight-laptop-asus-zenbook-a14-ux3407qa-qd259ws-refurbished-laptop.html",
+      "status": "In Stock"
+    },
+    "90NR0432-M02540-RF": {
+      "name": "ROG Strix SCAR 17 G732LXS-HG059T (Refurbished Laptop)",
+      "part_number": "90NR0432-M02540-RF",
+      "price_current": "Rs. 107,995.00",
+      "price_original": "Rs. 379,990.00",
+      "link": "https://in.store.asus.com/rog-strix-scar-17-g732lxs-hg059t-refurbished-laptop.html",
+      "status": "Out of Stock"
+    },
+    "90NR0872-M005S0-RF": {
+      "name": "ROG Strix SCAR 15 G533ZW-LN106WS (Refurbished Laptop)",
+      "part_number": "90NR0872-M005S0-RF",
+      "price_current": "Rs. 157,493.00",
+      "price_original": "Rs. 344,990.00",
+      "link": "https://in.store.asus.com/gaming-laptop-rog-strix-scar-15-g533zw-ln106ws-refurbished-laptop.html",
+      "status": "In Stock"
+    },
+    "90NR09N1-M002L0-RF": {
+      "name": "ROG Zephyrus Duo 16 GX650RMZ-LS019WS (Refurbished Laptop)",
+      "part_number": "90NR09N1-M002L0-RF",
+      "price_current": "Rs. 139,993.00",
+      "price_original": "Rs. 299,990.00",
+      "link": "https://in.store.asus.com/gaming-laptop-rog-zephyrus-duo-16-gx650rmz-ls019ws-refurbished-laptop.html",
+      "status": "In Stock"
+    },
+    "90NR0AN2-M00200-RF": {
+      "name": "ROG Flow X16 GV601RW-M5045WS (Refurbished Laptop)",
+      "part_number": "90NR0AN2-M00200-RF",
+      "price_current": "Rs. 183,393.00",
+      "price_original": "Rs. 311,990.00",
+      "link": "https://in.store.asus.com/gaming-laptop-asus-rog-flow-x16-gv601rw-m5045ws-refurbished-laptop.html",
+      "status": "In Stock"
+    },
+    "90NR0HC4-M001H0-RF": {
+      "name": "ASUS TUF Gaming F17 FX706HF-HX018W (Refurbished Laptop)",
+      "part_number": "90NR0HC4-M001H0-RF",
+      "price_current": "Rs. 39,192.00",
+      "price_original": "Rs. 77,990.00",
+      "link": "https://in.store.asus.com/gaming-laptop-asus-tuf-gaming-f17-fx706hf-hx018w-refurbished-laptop.html",
+      "status": "Out of Stock"
+    },
+    "90NR0IG5-M005E0-RF": {
+      "name": "ROG Strix G16 G614JIR-N4062WS (Refurbished Laptop)",
+      "part_number": "90NR0IG5-M005E0-RF",
+      "price_current": "Rs. 179,991.00",
+      "price_original": "Rs. 239,990.00",
+      "link": "https://in.store.asus.com/gaming-laptop-rog-strix-g16-g614jir-n4062ws-refurbished-laptop.html",
+      "status": "In Stock"
+    },
+    "90NR0JU7-M004R0-RF": {
+      "name": "ASUS TUF Gaming A15 FA566NFR-HN259W (Refurbished Laptop)",
+      "part_number": "90NR0JU7-M004R0-RF",
+      "price_current": "Rs. 44,792.00",
+      "price_original": "Rs. 75,990.00",
+      "link": "https://in.store.asus.com/gaming-laptop-asus-tuf-gaming-a15-fa566nfr-hn259w-refurbished-laptop.html",
+      "status": "Out of Stock"
+    },
+    "90NR0JV7-M004W0-RF": {
+      "name": "ASUS TUF Gaming A15 FA506NCR-HN075WS (Refurbished Laptop)",
+      "part_number": "90NR0JV7-M004W0-RF",
+      "price_current": "Rs. 53,592.00",
+      "price_original": "Rs. 91,990.00",
+      "link": "https://in.store.asus.com/gaming-laptop-asus-tuf-gaming-a15-fa506ncr-hn075ws-refurbished-laptop.html",
+      "status": "Out of Stock"
+    },
+    "90NR0KX7-M001F0-RF": {
+      "name": "ROG Strix G16 G614PH-RV033WS (Refurbished Laptop)",
+      "part_number": "90NR0KX7-M001F0-RF",
+      "price_current": "Rs. 104,993.00",
+      "price_original": "Rs. 173,990.00",
+      "link": "https://in.store.asus.com/gaming-laptop-rog-strix-g16-g614ph-rv033ws-refurbished-laptop.html",
+      "status": "Out of Stock"
+    },
+    "90NR0L81-M00710-RF": {
+      "name": "ROG Strix SCAR 16 G635LX-RW158WS (Refurbished Laptop)",
+      "part_number": "90NR0L81-M00710-RF",
+      "price_current": "Rs. 314,993.00",
+      "price_original": "Rs. 509,990.00",
+      "link": "https://in.store.asus.com/gaming-laptop-rog-strix-scar-16-g635lx-rw158ws-refurbished-laptop.html",
+      "status": "Out of Stock"
+    },
+    "90NR0LF1-M00910-RF": {
+      "name": "ROG Strix SCAR 18 G835LX-SA187WS (Refurbished Laptop)",
+      "part_number": "90NR0LF1-M00910-RF",
+      "price_current": "Rs. 349,993.00",
+      "price_original": "Rs. 539,990.00",
+      "link": "https://in.store.asus.com/gaming-laptop-rog-strix-scar-18-g835lx-sa187ws-refurbished-laptop.html",
+      "status": "Out of Stock"
+    },
+    "90NR0LL1-M00050-RF": {
+      "name": "ROG Strix G16 G615JHR-S5005WS (Refurbished Laptop)",
+      "part_number": "90NR0LL1-M00050-RF",
+      "price_current": "Rs. 134,393.00",
+      "price_original": "Rs. 191,990.00",
+      "link": "https://in.store.asus.com/gaming-laptop-rog-strix-g16-g615jhr-s5005ws-refurbished-laptop.html",
+      "status": "In Stock"
+    },
+    "90NR0LN1-M000V0-RF": {
+      "name": "ROG Strix G16 G615LP-S5022WS (Refurbished Laptop)",
+      "part_number": "90NR0LN1-M000V0-RF",
+      "price_current": "Rs. 193,193.00",
+      "price_original": "Rs. 275,990.00",
+      "link": "https://in.store.asus.com/gaming-laptop-rog-strix-g16-g615lp-s5022ws-refurbished-laptop.html",
+      "status": "In Stock"
+    },
+    "90NR0LR1-M007K0-RF": {
+      "name": "ROG Strix G16 G615LR-S5190WS (Refurbished Laptop)",
+      "part_number": "90NR0LR1-M007K0-RF",
+      "price_current": "Rs. 193,193.00",
+      "price_original": "Rs. 275,990.00",
+      "link": "https://in.store.asus.com/gaming-laptop-rog-strix-g16-g615lr-s5190ws-refurbished-laptop.html",
+      "status": "Out of Stock"
+    },
+    "90NR0LX5-M007M0-RF": {
+      "name": "ROG Zephyrus G16 GU605CW-QR133WS (Refurbished Laptop)",
+      "part_number": "90NR0LX5-M007M0-RF",
+      "price_current": "Rs. 251,993.00",
+      "price_original": "Rs. 395,990.00",
+      "link": "https://in.store.asus.com/gaming-laptop-rog-zephyrus-g16-gu605cw-qr133ws-refurbished-laptop.html",
+      "status": "In Stock"
+    },
+    "90NR0MH1-M003K0-RF": {
+      "name": "ASUS TUF Gaming F16 FX608JH-RV057WS (Refurbished Laptop)",
+      "part_number": "90NR0MH1-M003K0-RF",
+      "price_current": "Rs. 69,993.00",
+      "price_original": "Rs. 149,990.00",
+      "link": "https://in.store.asus.com/gaming-laptop-asus-tuf-gaming-f16-fx608jh-rv057ws-refurbished-laptop.html",
+      "status": "Out of Stock"
+    },
+    "90NR0MU3-M00BM0-RF": {
+      "name": "ASUS TUF Gaming A16 FA607NUG-RL189WS (Refurbished Laptop)",
+      "part_number": "90NR0MU3-M00BM0-RF",
+      "price_current": "Rs. 72,093.00",
+      "price_original": "Rs. 114,990.00",
+      "link": "https://in.store.asus.com/gaming-laptop-asus-tuf-gaming-a16-fa607nug-rl189ws-refurbished-laptop.html",
+      "status": "Out of Stock"
+    },
+    "90NR0NF6-M00590-RF": {
+      "name": "ASUS TUF Gaming F16 FX607VB-RL087WS (Refurbished Laptop)",
+      "part_number": "90NR0NF6-M00590-RF",
+      "price_current": "Rs. 55,992.00",
+      "price_original": "Rs. 96,990.00",
+      "link": "https://in.store.asus.com/gaming-laptop-asus-tuf-gaming-f16-fx607vb-rl087ws-refurbished-laptop.html",
+      "status": "Out of Stock"
+    },
+    "90NR0NJ7-M001V0-RF": {
+      "name": "ROG Strix G16 G614PR-RV032WS (Refurbished Laptop)",
+      "part_number": "90NR0NJ7-M001V0-RF",
+      "price_current": "Rs. 167,993.00",
+      "price_original": "Rs. 239,990.00",
+      "link": "https://in.store.asus.com/gaming-laptop-rog-strix-g16-g614pr-rv032ws-refurbished-laptop.html",
+      "status": "Out of Stock"
+    },
+    "90NV00H2-M002Z0-RF": {
+      "name": "ROG Xbox Ally X RC73XA-NH016W (Refurbished Gaming Handheld PC)",
+      "part_number": "90NV00H2-M002Z0-RF",
+      "price_current": "Rs. 97,993.00",
+      "price_original": "Rs. 149,990.00",
+      "link": "https://in.store.asus.com/rog-xbox-ally-x-refurbished-gaming-console-rc73xa-nh016w.html",
+      "status": "Out of Stock"
+    }
+  }
+}

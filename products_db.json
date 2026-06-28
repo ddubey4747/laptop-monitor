@@ -87,6 +87,22 @@
       "price_original": "Rs. 71,092",
       "link": "https://www.lenovo.com/in/outletin/en/p/laptops/loq-laptops/lenovo-loq-essential-gen-9-15-intel/83lkr002r0",
       "status": "In Stock"
+    },
+    "21kgr000r0": {
+      "name": "ThinkBook 14 - Intel i3, 8 GB RAM, 512 SSD",
+      "part_number": "21kgr000r0",
+      "price_current": "Rs. 42,091",
+      "price_original": "Rs. 64,603",
+      "link": "https://www.lenovo.com/in/outletin/en/p/laptops/thinkbook/thinkbook-series/lenovo-thinkbook-14-gen-6-14-inch-intel/21kgr000r0",
+      "status": "In Stock"
+    },
+    "21kkr001r0": {
+      "name": "ThinkBook 16 - AMD Ryzen 5, 8 GB RAM, 512 SSD",
+      "part_number": "21kkr001r0",
+      "price_current": "Rs. 47,291",
+      "price_original": "Rs. 70,190",
+      "link": "https://www.lenovo.com/in/outletin/en/p/laptops/thinkbook/thinkbook-series/lenovo-thinkbook-16-gen-6-16-inch-amd/21kkr001r0",
+      "status": "In Stock"
     }
   },
   "asus": {

@@ -191,6 +191,14 @@
       "price_original": "Rs. 90,879",
       "link": "https://www.lenovo.com/in/outletin/en/p/laptops/ideapad/ideapad-flex-series/ideapad-flex-5-gen-8-14-inch-amd/82xxr001r0",
       "status": "In Stock"
+    },
+    "83dar004r0": {
+      "name": "IdeaPad Slim 5 14 - Ultra 5, 16 GB RAM, 1TB SSD",
+      "part_number": "83dar004r0",
+      "price_current": "Rs. 59,590",
+      "price_original": "Rs. 1,09,212",
+      "link": "https://www.lenovo.com/in/outletin/en/p/laptops/ideapad/ideapad-s-series/ideapad-slim-5i-gen-9-14-inch-intel/83dar004r0",
+      "status": "In Stock"
     }
   },
   "asus": {
@@ -304,7 +312,7 @@
       "price_current": "Rs. 139,993.00",
       "price_original": "Rs. 299,990.00",
       "link": "https://in.store.asus.com/gaming-laptop-rog-zephyrus-duo-16-gx650rmz-ls019ws-refurbished-laptop.html",
-      "status": "In Stock"
+      "status": "Out of Stock"
     },
     "90NR0AN2-M00200-RF": {
       "name": "ROG Flow X16 GV601RW-M5045WS (Refurbished Laptop)",

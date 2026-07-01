@@ -215,6 +215,14 @@
       "price_original": "Rs. 1,57,421",
       "link": "https://www.lenovo.com/in/outletin/en/p/laptops/yoga/yoga-s-series/lenovo-yoga-slim-7-gen-10-14-inch-amd/83jyr001r0",
       "status": "In Stock"
+    },
+    "82ttr002r0": {
+      "name": "Lenovo V15 - Intel i3, 8 GB RAM, 512 SSD",
+      "part_number": "82ttr002r0",
+      "price_current": "Rs. 34,391",
+      "price_original": "Rs. 52,514",
+      "link": "https://www.lenovo.com/in/outletin/en/p/laptops/lenovo-laptops/v-series/lenovo-v15-gen-3-15-inch-intel/82ttr002r0",
+      "status": "In Stock"
     }
   },
   "asus": {

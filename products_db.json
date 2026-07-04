@@ -239,6 +239,14 @@
       "price_original": "Rs. 93,120",
       "link": "https://www.lenovo.com/in/outletin/en/p/laptops/thinkbook/thinkbook-series/lenovo-thinkbook-14-gen-7-14-inch-amd/21mvr000r0",
       "status": "In Stock"
+    },
+    "21kkr004r0": {
+      "name": "ThinkBook 16 - AMD Ryzen 7, 16 GB RAM, 512 SSD",
+      "part_number": "21kkr004r0",
+      "price_current": "Rs. 64,390",
+      "price_original": "Rs. 1,60,845",
+      "link": "https://www.lenovo.com/in/outletin/en/p/laptops/thinkbook/thinkbook-series/lenovo-thinkbook-16-gen-6-16-inch-amd/21kkr004r0",
+      "status": "In Stock"
     }
   },
   "asus": {

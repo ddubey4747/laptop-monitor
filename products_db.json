@@ -247,6 +247,22 @@
       "price_original": "Rs. 1,60,845",
       "link": "https://www.lenovo.com/in/outletin/en/p/laptops/thinkbook/thinkbook-series/lenovo-thinkbook-16-gen-6-16-inch-amd/21kkr004r0",
       "status": "In Stock"
+    },
+    "21ssr004r0": {
+      "name": "ThinkPad E16 - Ultra 5, 16 GB RAM, 512 SSD",
+      "part_number": "21ssr004r0",
+      "price_current": "Rs. 66,491",
+      "price_original": "Rs. 1,11,745",
+      "link": "https://www.lenovo.com/in/outletin/en/p/laptops/thinkpad/thinkpade/lenovo-thinkpad-e16-gen-3-16-inch-intel/21ssr004r0",
+      "status": "In Stock"
+    },
+    "21m7r00cr0": {
+      "name": "ThinkPad E14 - Ultra 5, 16 GB RAM, 512 SSD",
+      "part_number": "21m7r00cr0",
+      "price_current": "Rs. 67,190",
+      "price_original": "Rs. 94,575",
+      "link": "https://www.lenovo.com/in/outletin/en/p/laptops/thinkpad/thinkpade/lenovo-thinkpad-e14-gen-6-14-inch-intel/21m7r00cr0",
+      "status": "In Stock"
     }
   },
   "asus": {

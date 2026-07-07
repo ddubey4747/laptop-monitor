@@ -287,6 +287,14 @@
       "price_original": "Rs. 1,22,113",
       "link": "https://www.lenovo.com/in/outletin/en/p/laptops/ideapad/ideapad-s-series/lenovo-ideapad-slim-5x-gen-9-14-inch-snapdragon/83hlr000r0",
       "status": "In Stock"
+    },
+    "21tgr000r0": {
+      "name": "ThinkPad E16 - Core 3, 16 GB RAM, 512 SSD",
+      "part_number": "21tgr000r0",
+      "price_current": "Rs. 56,090",
+      "price_original": "Rs. 77,600",
+      "link": "https://www.lenovo.com/in/outletin/en/p/laptops/thinkpad/thinkpade/lenovo-thinkpad-e16-gen-3-16-inch-intel/21tgr000r0",
+      "status": "In Stock"
     }
   },
   "asus": {

@@ -295,6 +295,22 @@
       "price_original": "Rs. 77,600",
       "link": "https://www.lenovo.com/in/outletin/en/p/laptops/thinkpad/thinkpade/lenovo-thinkpad-e16-gen-3-16-inch-intel/21tgr000r0",
       "status": "In Stock"
+    },
+    "82svr000r0": {
+      "name": "Yoga Slim 7 Pro 14 - Intel i7, 16 GB RAM, 512 SSD",
+      "part_number": "82svr000r0",
+      "price_current": "Rs. 69,890",
+      "price_original": "Rs. 1,49,273",
+      "link": "https://www.lenovo.com/in/outletin/en/p/laptops/yoga/yoga-s-series/yoga-slim-7i-pro-gen-7-14-inch-intel/82svr000r0",
+      "status": "In Stock"
+    },
+    "83jrr001r0": {
+      "name": "Yoga 7 (2-in-1) 14 - AMD Ryzen 7, 32 GB RAM, 1TB SSD",
+      "part_number": "83jrr001r0",
+      "price_current": "Rs. 84,790",
+      "price_original": "Rs. 1,64,211",
+      "link": "https://www.lenovo.com/in/outletin/en/p/laptops/yoga/yoga-2-in-1-series/lenovo-yoga-7-2-in-1-gen-10-14-inch-amd/83jrr001r0",
+      "status": "In Stock"
     }
   },
   "asus": {

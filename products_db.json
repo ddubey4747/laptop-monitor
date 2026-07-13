@@ -311,6 +311,14 @@
       "price_original": "Rs. 1,64,211",
       "link": "https://www.lenovo.com/in/outletin/en/p/laptops/yoga/yoga-2-in-1-series/lenovo-yoga-7-2-in-1-gen-10-14-inch-amd/83jrr001r0",
       "status": "In Stock"
+    },
+    "21ssr000r0": {
+      "name": "ThinkPad E16 - Ultra 7, 16 GB RAM, 512 SSD",
+      "part_number": "21ssr000r0",
+      "price_current": "Rs. 87,491",
+      "price_original": "Rs. 1,39,681",
+      "link": "https://www.lenovo.com/in/outletin/en/p/laptops/thinkpad/thinkpade/lenovo-thinkpad-e16-gen-3-16-inch-intel/21ssr000r0",
+      "status": "In Stock"
     }
   },
   "asus": {

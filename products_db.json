@@ -351,6 +351,14 @@
       "price_original": "Rs. 1,14,710",
       "link": "https://www.lenovo.com/in/outletin/en/p/laptops/thinkpad/thinkpade/lenovo-thinkpad-e14-gen-6-14-inch-intel/21m7r000r0",
       "status": "In Stock"
+    },
+    "83jjr001r0": {
+      "name": "Legion 5 15 - Intel i7, 24 GB RAM, 512 SSD",
+      "part_number": "83jjr001r0",
+      "price_current": "Rs. 86,191",
+      "price_original": "Rs. 1,60,138",
+      "link": "https://www.lenovo.com/in/outletin/en/p/laptops/legion-laptops/legion-5-series/legion-5i-gen-9-15-inch-intel/83jjr001r0",
+      "status": "In Stock"
     }
   },
   "asus": {
@@ -560,7 +568,7 @@
       "price_current": "Rs. 251,993.00",
       "price_original": "Rs. 395,990.00",
       "link": "https://in.store.asus.com/gaming-laptop-rog-zephyrus-g16-gu605cw-qr133ws-refurbished-laptop.html",
-      "status": "Out of Stock"
+      "status": "In Stock"
     },
     "90NR0MH1-M003K0-RF": {
       "name": "ASUS TUF Gaming F16 FX608JH-RV057WS (Refurbished Laptop)",

@@ -91,7 +91,7 @@
     "21kgr000r0": {
       "name": "ThinkBook 14 - Intel i3, 8 GB RAM, 512 SSD",
       "part_number": "21kgr000r0",
-      "price_current": "Rs. 42,091",
+      "price_current": "Rs. 47,291",
       "price_original": "Rs. 64,603",
       "link": "https://www.lenovo.com/in/outletin/en/p/laptops/thinkbook/thinkbook-series/lenovo-thinkbook-14-gen-6-14-inch-intel/21kgr000r0",
       "status": "In Stock"
@@ -359,6 +359,54 @@
       "price_original": "Rs. 1,60,138",
       "link": "https://www.lenovo.com/in/outletin/en/p/laptops/legion-laptops/legion-5-series/legion-5i-gen-9-15-inch-intel/83jjr001r0",
       "status": "In Stock"
+    },
+    "21kgr001r0": {
+      "name": "ThinkBook 14 - Intel i3, 8 GB RAM, 512 SSD",
+      "part_number": "21kgr001r0",
+      "price_current": "Rs. 49,790",
+      "price_original": "Rs. 80,753",
+      "link": "https://www.lenovo.com/in/outletin/en/p/laptops/thinkbook/thinkbook-series/lenovo-thinkbook-14-gen-6-14-inch-intel/21kgr001r0",
+      "status": "In Stock"
+    },
+    "21jrr003r0": {
+      "name": "ThinkPad E14 - AMD Ryzen 5, 8 GB RAM, 512 SSD",
+      "part_number": "21jrr003r0",
+      "price_current": "Rs. 53,291",
+      "price_original": "Rs. 1,15,106",
+      "link": "https://www.lenovo.com/in/outletin/en/p/laptops/thinkpad/thinkpade/thinkpad-e14-gen-5-14-inch-amd/21jrr003r0",
+      "status": "In Stock"
+    },
+    "21jkr00er0": {
+      "name": "ThinkPad E14 - Intel i5, 16 GB RAM, 512 SSD",
+      "part_number": "21jkr00er0",
+      "price_current": "Rs. 66,591",
+      "price_original": "Rs. 91,039",
+      "link": "https://www.lenovo.com/in/outletin/en/p/laptops/thinkpad/thinkpade/thinkpad-e14-gen-5-14-inch-intel/21jkr00er0",
+      "status": "In Stock"
+    },
+    "21jkr005r0": {
+      "name": "ThinkPad E14 - Intel i5, 16 GB RAM, 512 SSD",
+      "part_number": "21jkr005r0",
+      "price_current": "Rs. 67,990",
+      "price_original": "Rs. 1,05,633",
+      "link": "https://www.lenovo.com/in/outletin/en/p/laptops/thinkpad/thinkpade/thinkpad-e14-gen-5-14-inch-intel/21jkr005r0",
+      "status": "In Stock"
+    },
+    "21jkr003r0": {
+      "name": "ThinkPad E14 - Intel i7, 16 GB RAM, 512 SSD",
+      "part_number": "21jkr003r0",
+      "price_current": "Rs. 84,790",
+      "price_original": "Rs. 1,62,334",
+      "link": "https://www.lenovo.com/in/outletin/en/p/laptops/thinkpad/thinkpade/thinkpad-e14-gen-5-14-inch-intel/21jkr003r0",
+      "status": "In Stock"
+    },
+    "83e2r000r0": {
+      "name": "Yoga Pro 7 14 - Ultra 7, 16 GB RAM, 1TB SSD",
+      "part_number": "83e2r000r0",
+      "price_current": "Rs. 1,02,291",
+      "price_original": "Rs. 1,96,804",
+      "link": "https://www.lenovo.com/in/outletin/en/p/laptops/yoga/yoga-pro-series/yoga-pro-7i-gen-9-14-inch-intel/83e2r000r0",
+      "status": "In Stock"
     }
   },
   "asus": {
@@ -464,7 +512,7 @@
       "price_current": "Rs. 157,493.00",
       "price_original": "Rs. 344,990.00",
       "link": "https://in.store.asus.com/gaming-laptop-rog-strix-scar-15-g533zw-ln106ws-refurbished-laptop.html",
-      "status": "In Stock"
+      "status": "Out of Stock"
     },
     "90NR09N1-M002L0-RF": {
       "name": "ROG Zephyrus Duo 16 GX650RMZ-LS019WS (Refurbished Laptop)",

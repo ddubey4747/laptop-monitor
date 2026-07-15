@@ -407,6 +407,30 @@
       "price_original": "Rs. 1,96,804",
       "link": "https://www.lenovo.com/in/outletin/en/p/laptops/yoga/yoga-pro-series/yoga-pro-7i-gen-9-14-inch-intel/83e2r000r0",
       "status": "In Stock"
+    },
+    "21jkr004r0": {
+      "name": "ThinkPad E14 - Intel i5, 8 GB RAM, 512 SSD",
+      "part_number": "21jkr004r0",
+      "price_current": "Rs. 59,590",
+      "price_original": "Rs. 93,703",
+      "link": "https://www.lenovo.com/in/outletin/en/p/laptops/thinkpad/thinkpade/thinkpad-e14-gen-5-14-inch-intel/21jkr004r0",
+      "status": "In Stock"
+    },
+    "21jkr00dr0": {
+      "name": "ThinkPad E14 - Intel i7, 16 GB RAM, 512 SSD",
+      "part_number": "21jkr00dr0",
+      "price_current": "Rs. 70,091",
+      "price_original": "Rs. 1,14,789",
+      "link": "https://www.lenovo.com/in/outletin/en/p/laptops/thinkpad/thinkpade/thinkpad-e14-gen-5-14-inch-intel/21jkr00dr0",
+      "status": "In Stock"
+    },
+    "21kgr003r0": {
+      "name": "ThinkBook 14 - Intel i7, 16 GB RAM, 512 SSD",
+      "part_number": "21kgr003r0",
+      "price_current": "Rs. 83,690",
+      "price_original": "Rs. 1,38,798",
+      "link": "https://www.lenovo.com/in/outletin/en/p/laptops/thinkbook/thinkbook-series/lenovo-thinkbook-14-gen-6-14-inch-intel/21kgr003r0",
+      "status": "In Stock"
     }
   },
   "asus": {

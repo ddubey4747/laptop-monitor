@@ -961,6 +961,22 @@
       "price_original": "Rs. 383,990.00",
       "link": "https://in.store.asus.com/gaming-laptop-rog-strix-g16-g615lw-rv148ws-refurbished-laptop.html",
       "status": "Out of Stock"
+    },
+    "90NB10I2-M01HM0-RF": {
+      "name": "ASUS Vivobook 14 X1404VA-EB321WS (Refurbished Laptop)",
+      "part_number": "90NB10I2-M01HM0-RF",
+      "price_current": "Rs. 50,990.00",
+      "price_original": "",
+      "link": "https://in.store.asus.com/light-weight-asus-vivobook-14-x1404va-eb321ws-refurbished-laptop.html",
+      "status": "In Stock"
+    },
+    "90NB0ZS2-M01AV0-RF": {
+      "name": "ASUS Vivobook Go 14 E1404FA-EB2322WS (Refurbished Laptop)",
+      "part_number": "90NB0ZS2-M01AV0-RF",
+      "price_current": "Rs. 43,990.00",
+      "price_original": "",
+      "link": "https://in.store.asus.com/student-laptop-asus-vivobook-go-14-e1404fa-eb2322ws-refurbished-laptop.html",
+      "status": "Out of Stock"
     }
   }
 }

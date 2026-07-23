@@ -511,6 +511,14 @@
       "price_original": "Rs. 1,90,693",
       "link": "https://www.lenovo.com/in/outletin/en/p/laptops/legion-laptops/legion-5-series/legion-5i-gen-9-16-inch-intel/83dgr002r0",
       "status": "In Stock"
+    },
+    "82wmr004r0": {
+      "name": "Legion Pro 5 16 - AMD Ryzen 7, 16 GB RAM, 1TB SSD",
+      "part_number": "82wmr004r0",
+      "price_current": "Rs. 1,16,991",
+      "price_original": "Rs. 2,23,964",
+      "link": "https://www.lenovo.com/in/outletin/en/p/laptops/legion-laptops/legion-5-series/legion-pro-5-gen-8-16-inch-amd/82wmr004r0",
+      "status": "In Stock"
     }
   },
   "asus": {

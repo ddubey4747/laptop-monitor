@@ -519,6 +519,22 @@
       "price_original": "Rs. 2,23,964",
       "link": "https://www.lenovo.com/in/outletin/en/p/laptops/legion-laptops/legion-5-series/legion-pro-5-gen-8-16-inch-amd/82wmr004r0",
       "status": "In Stock"
+    },
+    "83f2r000r0": {
+      "name": "Legion Pro 5 16 - AMD Ryzen 9, 32 GB RAM, 1TB SSD",
+      "part_number": "83f2r000r0",
+      "price_current": "Rs. 1,87,691",
+      "price_original": "Rs. 2,77,605",
+      "link": "https://www.lenovo.com/in/outletin/en/p/laptops/legion-laptops/legion-pro-series/legion-pro-5-gen-10-16-inch-amd/83f2r000r0",
+      "status": "In Stock"
+    },
+    "83f5r001r0": {
+      "name": "Legion Pro 7 16 - Ultra 9, 32 GB RAM, 1TB SSD",
+      "part_number": "83f5r001r0",
+      "price_current": "Rs. 2,27,990",
+      "price_original": "Rs. 4,26,984",
+      "link": "https://www.lenovo.com/in/outletin/en/p/laptops/legion-laptops/legion-pro-series/legion-pro-7i-gen-10-16-inch-intel/83f5r001r0",
+      "status": "In Stock"
     }
   },
   "asus": {
@@ -1128,7 +1144,7 @@
       "price_current": "Rs. 59,493.00",
       "price_original": "Rs. 99,990.00",
       "link": "https://in.store.asus.com/asus-vivobook-go-15-e1504fa-bq2116ws-amd-ryzen-student-laptop-refurbished-laptop.html",
-      "status": "In Stock"
+      "status": "Out of Stock"
     },
     "90NB0ZR2-M02L70-RF": {
       "name": "ASUS Vivobook Go 15 E1504FA-NJ130WS (Refurbished Laptop)",

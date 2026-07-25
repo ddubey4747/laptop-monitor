@@ -535,6 +535,70 @@
       "price_original": "Rs. 4,26,984",
       "link": "https://www.lenovo.com/in/outletin/en/p/laptops/legion-laptops/legion-pro-series/legion-pro-7i-gen-10-16-inch-intel/83f5r001r0",
       "status": "In Stock"
+    },
+    "83jjr000r0": {
+      "name": "Legion 5 15 - Intel i7, 24 GB RAM, 512 SSD",
+      "part_number": "83jjr000r0",
+      "price_current": "Rs. 87,590",
+      "price_original": "Rs. 1,69,643",
+      "link": "https://www.lenovo.com/in/outletin/en/p/laptops/legion-laptops/legion-5-series/legion-5i-gen-9-15-inch-intel/83jjr000r0",
+      "status": "In Stock"
+    },
+    "83dgr000r0": {
+      "name": "Legion 5 16 - Intel i7, 16 GB RAM, 1TB SSD",
+      "part_number": "83dgr000r0",
+      "price_current": "Rs. 95,291",
+      "price_original": "Rs. 1,74,397",
+      "link": "https://www.lenovo.com/in/outletin/en/p/laptops/legion-laptops/legion-5-series/legion-5i-gen-9-16-inch-intel/83dgr000r0",
+      "status": "In Stock"
+    },
+    "82r4r00dr0": {
+      "name": "IdeaPad 1 15 - AMD Ryzen 5, 8 GB RAM, 512 SSD",
+      "part_number": "82r4r00dr0",
+      "price_current": "Rs. 32,291",
+      "price_original": "Rs. 45,872",
+      "link": "https://www.lenovo.com/in/outletin/en/p/laptops/ideapad/ideapad-100/ideapad-1-gen-7-15-inch-amd/82r4r00dr0",
+      "status": "In Stock"
+    },
+    "83hxr002r0": {
+      "name": "IdeaPad Slim 5 14 - AMD Ryzen 5, 16 GB RAM, 512 SSD",
+      "part_number": "83hxr002r0",
+      "price_current": "Rs. 52,590",
+      "price_original": "Rs. 1,07,175",
+      "link": "https://www.lenovo.com/in/outletin/en/p/laptops/ideapad/ideapad-s-series/lenovo-ideapad-slim-5-gen-10-14-inch-amd/83hxr002r0",
+      "status": "In Stock"
+    },
+    "21m7r00dr0": {
+      "name": "ThinkPad E14 - Ultra 5, 16 GB RAM, 512 SSD",
+      "part_number": "21m7r00dr0",
+      "price_current": "Rs. 63,091",
+      "price_original": "Rs. 1,03,015",
+      "link": "https://www.lenovo.com/in/outletin/en/p/laptops/thinkpad/thinkpade/lenovo-thinkpad-e14-gen-6-14-inch-intel/21m7r00dr0",
+      "status": "In Stock"
+    },
+    "83hxr003r0": {
+      "name": "IdeaPad Slim 5 14 - AMD Ryzen 7, 24 GB RAM, 1TB SSD",
+      "part_number": "83hxr003r0",
+      "price_current": "Rs. 70,091",
+      "price_original": "Rs. 1,27,546",
+      "link": "https://www.lenovo.com/in/outletin/en/p/laptops/ideapad/ideapad-s-series/lenovo-ideapad-slim-5-gen-10-14-inch-amd/83hxr003r0",
+      "status": "In Stock"
+    },
+    "82r1r000r0": {
+      "name": "IdeaPad 1 15 - AMD Ryzen 3, 8 GB RAM, 512 SSD",
+      "part_number": "82r1r000r0",
+      "price_current": "Rs. 29,491",
+      "price_original": "Rs. 52,856",
+      "link": "https://www.lenovo.com/in/outletin/en/p/laptops/ideapad/ideapad-100/ideapad-1-gen-7-15-inch-amd/82r1r000r0",
+      "status": "In Stock"
+    },
+    "82x6r001r0": {
+      "name": "IdeaPad Slim 3 14 - Intel i3, 8 GB RAM, 512 SSD",
+      "part_number": "82x6r001r0",
+      "price_current": "Rs. 42,091",
+      "price_original": "Rs. 70,316",
+      "link": "https://www.lenovo.com/in/outletin/en/p/laptops/ideapad/ideapad-300/ideapad-slim-3i-gen-8-14-inch-intel/82x6r001r0",
+      "status": "In Stock"
     }
   },
   "asus": {

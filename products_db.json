@@ -807,6 +807,14 @@
       "price_original": "Rs. 1,20,756",
       "link": "https://www.lenovo.com/in/outletin/en/p/laptops/yoga/yoga-s-series/yoga-slim-7i-gen-9-14-inch-intel/83cvr00cr0",
       "status": "In Stock"
+    },
+    "21kkr005r0": {
+      "name": "ThinkBook 16 - AMD Ryzen 3, 8 GB RAM, 512 SSD",
+      "part_number": "21kkr005r0",
+      "price_current": "Rs. 36,490",
+      "price_original": "Rs. 59,364",
+      "link": "https://www.lenovo.com/in/outletin/en/p/laptops/thinkbook/thinkbook-series/lenovo-thinkbook-16-gen-6-16-inch-amd/21kkr005r0",
+      "status": "In Stock"
     }
   },
   "asus": {

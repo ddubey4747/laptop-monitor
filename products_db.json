@@ -1087,6 +1087,46 @@
       "price_original": "Rs. 95,730",
       "link": "https://www.lenovo.com/in/outletin/en/p/desktops/ideacentre/aio-500-series/ideacentre-aio-i-gen-9-(27-inch-intel)/f0hmr007r0",
       "status": "In Stock"
+    },
+    "12lmr000r0": {
+      "name": "ThinkCentre neo 50q - Intel i3, 8 GB RAM, 512 SSD",
+      "part_number": "12lmr000r0",
+      "price_current": "Rs. 42,091",
+      "price_original": "Rs. 47,143",
+      "link": "https://www.lenovo.com/in/outletin/en/p/desktops/thinkcentre/thinkcentre-neo-series/thinkcentre-neo-50q-gen-4-tiny-intel/12lmr000r0",
+      "status": "In Stock"
+    },
+    "90xsr002r0": {
+      "name": "IdeaCentre Tower - Intel i3, 8 GB RAM, 512 SSD",
+      "part_number": "90xsr002r0",
+      "price_current": "Rs. 49,390",
+      "price_original": "Rs. 81,955",
+      "link": "https://www.lenovo.com/in/outletin/en/p/desktops/ideacentre/500-series/lenovo-ideacentre-tower-gen-9-8l,-intel/90xsr002r0",
+      "status": "In Stock"
+    },
+    "12lmr001r0": {
+      "name": "ThinkCentre neo 50q - Intel i5, 8 GB RAM, 512 SSD",
+      "part_number": "12lmr001r0",
+      "price_current": "Rs. 56,090",
+      "price_original": "Rs. 62,856",
+      "link": "https://www.lenovo.com/in/outletin/en/p/desktops/thinkcentre/thinkcentre-neo-series/thinkcentre-neo-50q-gen-4-tiny-intel/12lmr001r0",
+      "status": "In Stock"
+    },
+    "f0hnr001r0": {
+      "name": "IdeaCentre AIO - Intel i5, 24 GB RAM, 512 SSD",
+      "part_number": "f0hnr001r0",
+      "price_current": "Rs. 70,091",
+      "price_original": "Rs. 1,44,812",
+      "link": "https://www.lenovo.com/in/outletin/en/p/desktops/ideacentre/aio-500-series/ideacentre-aio-i-gen-9-(24-inch-intel)/f0hnr001r0",
+      "status": "In Stock"
+    },
+    "12scr000r0": {
+      "name": "ThinkCentre neo 50a - Intel i5, 16 GB RAM, 512 SSD",
+      "part_number": "12scr000r0",
+      "price_current": "Rs. 68,690",
+      "price_original": "Rs. 1,22,609",
+      "link": "https://www.lenovo.com/in/outletin/en/p/desktops/thinkcentre/thinkcentre-neo-series/thinkcentre-neo-50a-gen-5-24-inch-intel/12scr000r0",
+      "status": "In Stock"
     }
   },
   "asus": {

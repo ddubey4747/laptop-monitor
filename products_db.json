@@ -1127,6 +1127,14 @@
       "price_original": "Rs. 1,22,609",
       "link": "https://www.lenovo.com/in/outletin/en/p/desktops/thinkcentre/thinkcentre-neo-series/thinkcentre-neo-50a-gen-5-24-inch-intel/12scr000r0",
       "status": "In Stock"
+    },
+    "12udr002r0": {
+      "name": "ThinkCentre neo 50t - Intel i3, 8 GB RAM, 512 SSD",
+      "part_number": "12udr002r0",
+      "price_current": "Rs. 42,091",
+      "price_original": "Rs. 1,26,062",
+      "link": "https://www.lenovo.com/in/outletin/en/p/desktops/thinkcentre/thinkcentre-neo-series/lenovo-thinkcentre-neo-50t-gen-5-intel-tower/12udr002r0",
+      "status": "In Stock"
     }
   },
   "asus": {

@@ -1007,6 +1007,86 @@
       "price_original": "Rs. 2,47,050",
       "link": "https://www.lenovo.com/in/outletin/en/p/laptops/yoga/yoga-2-in-1-series/lenovo-yoga-9i-2-in-1-gen-9-14-inch-intel/83acr000r0",
       "status": "In Stock"
+    },
+    "f0j6r002r0": {
+      "name": "Lenovo A100 - Intel i3 N305,8 GB RAM, 512 SSD",
+      "part_number": "f0j6r002r0",
+      "price_current": "Rs. 35,091",
+      "price_original": "Rs. 48,394",
+      "link": "https://www.lenovo.com/in/outletin/en/p/desktops/lenovo-desktops/a-series-aio/lenovo-a100-aio-24-inch-intel-desktop/f0j6r002r0",
+      "status": "In Stock"
+    },
+    "90vtr001r0": {
+      "name": "IdeaCentre 3 - Intel i5, 8 GB RAM, 512 SSD",
+      "part_number": "90vtr001r0",
+      "price_current": "Rs. 37,891",
+      "price_original": "Rs. 49,073",
+      "link": "https://www.lenovo.com/in/outletin/en/p/desktops/ideacentre/300-series/ideacentre-3i-gen-8-7l-intel/90vtr001r0",
+      "status": "In Stock"
+    },
+    "90xsr003r0": {
+      "name": "IdeaCentre Tower - Intel i3, 8 GB RAM, 512 SSD",
+      "part_number": "90xsr003r0",
+      "price_current": "Rs. 41,791",
+      "price_original": "Rs. 42,380",
+      "link": "https://www.lenovo.com/in/outletin/en/p/desktops/ideacentre/500-series/lenovo-ideacentre-tower-gen-9-8l,-intel/90xsr003r0",
+      "status": "In Stock"
+    },
+    "12udr004r0": {
+      "name": "ThinkCentre neo 50t - Intel i3, 8 GB RAM, 512 SSD",
+      "part_number": "12udr004r0",
+      "price_current": "Rs. 42,091",
+      "price_original": "Rs. 55,000",
+      "link": "https://www.lenovo.com/in/outletin/en/p/desktops/thinkcentre/thinkcentre-neo-series/lenovo-thinkcentre-neo-50t-gen-5-intel-tower/12udr004r0",
+      "status": "In Stock"
+    },
+    "90xsr004r0": {
+      "name": "IdeaCentre Tower - Intel i3, 8 GB RAM, 512 SSD",
+      "part_number": "90xsr004r0",
+      "price_current": "Rs. 49,390",
+      "price_original": "Rs. 88,939",
+      "link": "https://www.lenovo.com/in/outletin/en/p/desktops/ideacentre/500-series/lenovo-ideacentre-tower-gen-9-8l,-intel/90xsr004r0",
+      "status": "In Stock"
+    },
+    "f0hmr00br0": {
+      "name": "IdeaCentre AIO 27 - Intel i3, 8 GB RAM, 512 SSD",
+      "part_number": "f0hmr00br0",
+      "price_current": "Rs. 61,791",
+      "price_original": "Rs. 62,362",
+      "link": "https://www.lenovo.com/in/outletin/en/p/desktops/ideacentre/aio-500-series/ideacentre-aio-i-gen-9-(27-inch-intel)/f0hmr00br0",
+      "status": "In Stock"
+    },
+    "90xwr006r0": {
+      "name": "IdeaCentre Tower - Intel i7, 16 GB RAM, 1TB SSD",
+      "part_number": "90xwr006r0",
+      "price_current": "Rs. 70,091",
+      "price_original": "Rs. 1,27,352",
+      "link": "https://www.lenovo.com/in/outletin/en/p/desktops/ideacentre/500-series/lenovo-ideacentre-tower-gen-9-8l,-intel/90xwr006r0",
+      "status": "In Stock"
+    },
+    "12scr007r0": {
+      "name": "ThinkCentre neo 50a - Intel i5, 16 GB RAM, 512 SSD",
+      "part_number": "12scr007r0",
+      "price_current": "Rs. 69,391",
+      "price_original": "Rs. 76,825",
+      "link": "https://www.lenovo.com/in/outletin/en/p/desktops/thinkcentre/thinkcentre-neo-series/thinkcentre-neo-50a-gen-5-24-inch-intel/12scr007r0",
+      "status": "In Stock"
+    },
+    "f0hmr00dr0": {
+      "name": "IdeaCentre AIO 27 - Intel i5, 16 GB RAM, 1TB SSD",
+      "part_number": "f0hmr00dr0",
+      "price_current": "Rs. 79,191",
+      "price_original": "Rs. 1,48,304",
+      "link": "https://www.lenovo.com/in/outletin/en/p/desktops/ideacentre/aio-500-series/ideacentre-aio-i-gen-9-(27-inch-intel)/f0hmr00dr0",
+      "status": "In Stock"
+    },
+    "f0hmr007r0": {
+      "name": "IdeaCentre AIO 27 - Intel i7, 16 GB RAM, 1TB SSD",
+      "part_number": "f0hmr007r0",
+      "price_current": "Rs. 86,191",
+      "price_original": "Rs. 95,730",
+      "link": "https://www.lenovo.com/in/outletin/en/p/desktops/ideacentre/aio-500-series/ideacentre-aio-i-gen-9-(27-inch-intel)/f0hmr007r0",
+      "status": "In Stock"
     }
   },
   "asus": {

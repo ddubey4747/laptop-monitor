@@ -1889,6 +1889,14 @@
       "price_original": "Rs. 90,990.00",
       "link": "https://in.store.asus.com/all-in-one-asus-aio-v440va-twpd017ws-refurbished-all-in-one.html",
       "status": "In Stock"
+    },
+    "90NB14U1-M00ER0": {
+      "name": "ASUS Zenbook 14 UM3406KA-PP240WS;Copilot+ PC",
+      "part_number": "90NB14U1-M00ER0",
+      "price_current": "Rs. 117,990.00",
+      "price_original": "",
+      "link": "https://in.store.asus.com/asus-zenbook-14-um3406ka-pp240ws-copilot-pc-1.html",
+      "status": "Out of Stock"
     }
   }
 }

@@ -1897,6 +1897,38 @@
       "price_original": "",
       "link": "https://in.store.asus.com/asus-zenbook-14-um3406ka-pp240ws-copilot-pc-1.html",
       "status": "Out of Stock"
+    },
+    "90NB1582-M006X0-RF": {
+      "name": "ASUS Vivobook 14 X1407CA-LY159WS (Refurbished Laptop)",
+      "part_number": "90NB1582-M006X0-RF",
+      "price_current": "Rs. 55,493.00",
+      "price_original": "Rs. 87,990.00",
+      "link": "https://in.store.asus.com/intel-ai-powered-light-weight-laptop-asus-vivobook-14-x1407ca-ly159ws-refurbished-laptop.html",
+      "status": "Out of Stock"
+    },
+    "90NB0ZR3-M04BU0-RF": {
+      "name": "ASUS Vivobook Go 15 E1504FA-BQ2343WS (Refurbished Laptop)",
+      "part_number": "90NB0ZR3-M04BU0-RF",
+      "price_current": "Rs. 30,392.00",
+      "price_original": "Rs. 37,990.00",
+      "link": "https://in.store.asus.com/student-laptop-asus-vivobook-go-15-e1504fa-bq2343ws-refurbished-laptop.html",
+      "status": "Out of Stock"
+    },
+    "90NB14I2-M00070-RF": {
+      "name": "ASUS Vivobook Go 15 E1504FA-BQ2490WS (Refurbished Laptop)",
+      "part_number": "90NB14I2-M00070-RF",
+      "price_current": "Rs. 34,392.00",
+      "price_original": "Rs. 54,990.00",
+      "link": "https://in.store.asus.com/student-laptop-asus-vivobook-go-15-e1504fa-bq2490ws-refurbished-laptop.html",
+      "status": "Out of Stock"
+    },
+    "90NB14U1-M00ER0-RF": {
+      "name": "ASUS Zenbook 14 UM3406KA-PP240WS;Copilot+ PC(Refurbished Laptop)",
+      "part_number": "90NB14U1-M00ER0-RF",
+      "price_current": "Rs. 67,193.00",
+      "price_original": "Rs. 117,990.00",
+      "link": "https://in.store.asus.com/ai-powered-light-weight-laptop-asus-zenbook-14-um3406ka-pp240ws-refurbished-laptop.html",
+      "status": "Out of Stock"
     }
   }
 }

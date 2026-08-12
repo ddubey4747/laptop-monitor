@@ -1977,6 +1977,14 @@
       "price_original": "Rs. 455,990.00",
       "link": "https://in.store.asus.com/gaming-laptop-rog-strix-scar-16-g635lw-rw157ws-refurbished-laptop.html",
       "status": "In Stock"
+    },
+    "90NB0Y82-M00RK0-RF": {
+      "name": "ASUS Vivobook 16X M1603QA-MB512WS (Refurbished Laptop)",
+      "part_number": "90NB0Y82-M00RK0-RF",
+      "price_current": "Rs. 74,990.00",
+      "price_original": "",
+      "link": "https://in.store.asus.com/everyday-laptops-asus-vivobook-16x-m1603qa-mb512ws-m00rk0-refurbished-laptop.html",
+      "status": "Out of Stock"
     }
   }
 }

@@ -3,7 +3,7 @@
     "21jkr007r0": {
       "name": "ThinkPad E14 - Intel i3, 8 GB RAM, 512 SSD",
       "part_number": "21jkr007r0",
-      "price_current": "Rs. 44,091",
+      "price_current": "Rs. 44,191",
       "price_original": "Rs. 75,657",
       "link": "https://www.lenovo.com/in/outletin/en/p/laptops/thinkpad/thinkpade/thinkpad-e14-gen-5-14-inch-intel/21jkr007r0",
       "status": "In Stock"
@@ -91,7 +91,7 @@
     "21kgr000r0": {
       "name": "ThinkBook 14 - Intel i3, 8 GB RAM, 512 SSD",
       "part_number": "21kgr000r0",
-      "price_current": "Rs. 47,291",
+      "price_current": "Rs. 40,691",
       "price_original": "Rs. 64,603",
       "link": "https://www.lenovo.com/in/outletin/en/p/laptops/thinkbook/thinkbook-series/lenovo-thinkbook-14-gen-6-14-inch-intel/21kgr000r0",
       "status": "In Stock"
@@ -1223,6 +1223,30 @@
       "price_original": "Rs. 3,05,444",
       "link": "https://www.lenovo.com/in/outletin/en/p/laptops/yoga/yoga-2-in-1-series/lenovo-yoga-book-9i-gen-9-13-inch-intel/83ffr000r0",
       "status": "In Stock"
+    },
+    "82xqr003r0": {
+      "name": "IdeaPad Slim 3 15 - AMD Ryzen 3, 8 GB RAM, 512 SSD",
+      "part_number": "82xqr003r0",
+      "price_current": "Rs. 40,991",
+      "price_original": "Rs. 45,775",
+      "link": "https://www.lenovo.com/in/outletin/en/p/laptops/ideapad/ideapad-s-series/ideapad-slim-3-gen-8-15-inch-amd/82xqr003r0",
+      "status": "In Stock"
+    },
+    "82ttr000r0": {
+      "name": "Lenovo V15 - Intel i5, 8 GB RAM, 512 SSD",
+      "part_number": "82ttr000r0",
+      "price_current": "Rs. 49,090",
+      "price_original": "Rs. 79,540",
+      "link": "https://www.lenovo.com/in/outletin/en/p/laptops/lenovo-laptops/v-series/lenovo-v15-gen-3-15-inch-intel/82ttr000r0",
+      "status": "In Stock"
+    },
+    "21t9r001r0": {
+      "name": "ThinkPad E14 - Core 3, 8 GB RAM, 512 SSD",
+      "part_number": "21t9r001r0",
+      "price_current": "Rs. 49,090",
+      "price_original": "Rs. 61,110",
+      "link": "https://www.lenovo.com/in/outletin/en/p/laptops/thinkpad/thinkpade/lenovo-thinkpad-e14-gen-7-14-inch-intel/21t9r001r0",
+      "status": "In Stock"
     }
   },
   "asus": {
@@ -1256,7 +1280,7 @@
       "price_current": "Rs. 54,392.00",
       "price_original": "Rs. 84,990.00",
       "link": "https://in.store.asus.com/light-weight-laptop-asus-vivobook-16-x1605va-sh1952ws-refurbished-laptop.html",
-      "status": "In Stock"
+      "status": "Out of Stock"
     },
     "90NB10W2-M005B0-RF": {
       "name": "ASUS Vivobook S14 Flip TP3402VAB-LZ542WS (Refurbished Laptop)",
@@ -1928,7 +1952,7 @@
       "price_current": "Rs. 34,392.00",
       "price_original": "Rs. 54,990.00",
       "link": "https://in.store.asus.com/student-laptop-asus-vivobook-go-15-e1504fa-bq2490ws-refurbished-laptop.html",
-      "status": "In Stock"
+      "status": "Out of Stock"
     },
     "90NB14U1-M00ER0-RF": {
       "name": "ASUS Zenbook 14 UM3406KA-PP240WS;Copilot+ PC(Refurbished Laptop)",
@@ -1992,7 +2016,7 @@
       "price_current": "Rs. 38,493.00",
       "price_original": "Rs. 74,990.00",
       "link": "https://in.store.asus.com/everyday-laptops-asus-vivobook-16x-m1603qa-mb512ws-m00rk0-refurbished-laptop.html",
-      "status": "In Stock"
+      "status": "Out of Stock"
     },
     "90NB16C4-M005H0-RF": {
       "name": "ASUS Vivobook S16 S3607QA-SH079WS;Copilot+ PC(Refurbished Laptop)",

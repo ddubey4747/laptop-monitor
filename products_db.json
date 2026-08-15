@@ -555,7 +555,7 @@
     "82r4r00dr0": {
       "name": "IdeaPad 1 15 - AMD Ryzen 5, 8 GB RAM, 512 SSD",
       "part_number": "82r4r00dr0",
-      "price_current": "Rs. 32,291",
+      "price_current": "Rs. 35,791",
       "price_original": "Rs. 45,872",
       "link": "https://www.lenovo.com/in/outletin/en/p/laptops/ideapad/ideapad-100/ideapad-1-gen-7-15-inch-amd/82r4r00dr0",
       "status": "In Stock"
@@ -763,7 +763,7 @@
     "82xqr00fr0": {
       "name": "IdeaPad Slim 3 15 - AMD Ryzen 5, 16 GB RAM, 512 SSD",
       "part_number": "82xqr00fr0",
-      "price_current": "Rs. 50,091",
+      "price_current": "Rs. 42,491",
       "price_original": "Rs. 77,591",
       "link": "https://www.lenovo.com/in/outletin/en/p/laptops/ideapad/ideapad-s-series/ideapad-slim-3-gen-8-15-inch-amd/82xqr00fr0",
       "status": "In Stock"
@@ -1246,6 +1246,46 @@
       "price_current": "Rs. 49,090",
       "price_original": "Rs. 61,110",
       "link": "https://www.lenovo.com/in/outletin/en/p/laptops/thinkpad/thinkpade/lenovo-thinkpad-e14-gen-7-14-inch-intel/21t9r001r0",
+      "status": "In Stock"
+    },
+    "82x6r000r0": {
+      "name": "IdeaPad Slim 3 14 - Intel i3, 8 GB RAM, 512 SSD",
+      "part_number": "82x6r000r0",
+      "price_current": "Rs. 30,190",
+      "price_original": "Rs. 52,758",
+      "link": "https://www.lenovo.com/in/outletin/en/p/laptops/ideapad/ideapad-300/ideapad-slim-3i-gen-8-14-inch-intel/82x6r000r0",
+      "status": "In Stock"
+    },
+    "82r4r004r0": {
+      "name": "IdeaPad 1 15 - AMD Ryzen 5, 8 GB RAM, 512 SSD",
+      "part_number": "82r4r004r0",
+      "price_current": "Rs. 30,890",
+      "price_original": "Rs. 55,377",
+      "link": "https://www.lenovo.com/in/outletin/en/p/laptops/ideapad/ideapad-100/ideapad-1-gen-7-15-inch-amd/82r4r004r0",
+      "status": "In Stock"
+    },
+    "83a0r002r0": {
+      "name": "Lenovo V14 - Intel i3, 8 GB RAM, 512 SSD",
+      "part_number": "83a0r002r0",
+      "price_current": "Rs. 31,591",
+      "price_original": "Rs. 57,968",
+      "link": "https://www.lenovo.com/in/outletin/en/p/laptops/lenovo-laptops/v-series/lenovo-v14-gen-4-14-inch-intel/83a0r002r0",
+      "status": "In Stock"
+    },
+    "82xqr002r0": {
+      "name": "IdeaPad Slim 3 15 - AMD Ryzen 3, 8 GB RAM, 512 SSD",
+      "part_number": "82xqr002r0",
+      "price_current": "Rs. 37,891",
+      "price_original": "Rs. 56,542",
+      "link": "https://www.lenovo.com/in/outletin/en/p/laptops/ideapad/ideapad-s-series/ideapad-slim-3-gen-8-15-inch-amd/82xqr002r0",
+      "status": "In Stock"
+    },
+    "83j7r002r0": {
+      "name": "Motobook 60 14 - Core 5, 16 GB RAM, 512 SSD",
+      "part_number": "83j7r002r0",
+      "price_current": "Rs. 38,591",
+      "price_original": "Rs. 90,880",
+      "link": "https://www.lenovo.com/in/outletin/en/p/laptops/thinkbook/88ips502083/83j7r002r0",
       "status": "In Stock"
     }
   },
@@ -1992,7 +2032,7 @@
       "price_current": "Rs. 97,993.00",
       "price_original": "Rs. 170,990.00",
       "link": "https://in.store.asus.com/ai-powered-light-weight-laptop-asus-zenbook-s16-um5606ka-rj109ws-refurbished-laptop.html",
-      "status": "Out of Stock"
+      "status": "In Stock"
     },
     "90NB16K1-M004P0-RF": {
       "name": "ASUS Gaming V16 V3607VM-RP057WS (Refurbished Laptop)",

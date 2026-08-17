@@ -1792,7 +1792,7 @@
       "price_current": "Rs. 48,993.00",
       "price_original": "Rs. 83,990.00",
       "link": "https://in.store.asus.com/handheld-gaming-console-rog-xbox-ally-rc73ya-nh010w-refurbished-laptop.html",
-      "status": "Out of Stock"
+      "status": "In Stock"
     },
     "90NB17T2-M00020-RF": {
       "name": "ASUS Vivobook 15 X1504VAP-BQ224WS (Refurbished Laptop)",
@@ -1928,15 +1928,15 @@
       "price_current": "Rs. 27,192.00",
       "price_original": "Rs. 44,990.00",
       "link": "https://in.store.asus.com/student-laptop-asus-vivobook-go-15-e1504fa-nj130ws-refurbished-laptop.html",
-      "status": "Out of Stock"
+      "status": "In Stock"
     },
     "90NB16G1-M004W0-RF": {
       "name": "ASUS Zenbook A14 UX3407RA-QD054WS (Refurbished Laptop)",
       "part_number": "90NB16G1-M004W0-RF",
-      "price_current": "Rs. 83,993.00",
+      "price_current": "Rs. 75,990.00",
       "price_original": "Rs. 129,990.00",
       "link": "https://in.store.asus.com/ai-powered-light-weight-laptop-asus-zenbook-a14-ux3407ra-qd054ws-refurbished-laptop.html",
-      "status": "Out of Stock"
+      "status": "In Stock"
     },
     "90NB15Z1-M003H0-RF": {
       "name": "ASUS Vivobook 16 X1607QA-MB049WS;Copilot+ PC(Refurbished Laptop)",
@@ -2088,6 +2088,22 @@
       "price_current": "Rs. 61,592.00",
       "price_original": "Rs. 98,990.00",
       "link": "https://in.store.asus.com/qualcomm-ai-powered-light-weight-laptop-asus-vivobook-s16-s3607qa-sh079ws-refurbished-laptop.html",
+      "status": "In Stock"
+    },
+    "90NB14F3-M00N30-RF": {
+      "name": "ASUS Zenbook S 14 OLED UX5406SA-PZ7761WS (Refurbished Laptop)",
+      "part_number": "90NB14F3-M00N30-RF",
+      "price_current": "Rs. 104,993.00",
+      "price_original": "Rs. 182,990.00",
+      "link": "https://in.store.asus.com/intel-ai-powered-laptop-asus-zenbook-s-14-oled-ux5406sa-pz7761ws-refurbished-laptop.html",
+      "status": "In Stock"
+    },
+    "90NB15H3-M006K0-RF": {
+      "name": "ASUS Vivobook 14 M1407KA-LY131WS (Refurbished Laptop)",
+      "part_number": "90NB15H3-M006K0-RF",
+      "price_current": "Rs. 52,792.00",
+      "price_original": "Rs. 81,990.00",
+      "link": "https://in.store.asus.com/amd-ai-powered-light-weight-laptop-asus-vivobook-14-m1407ka-ly131ws-refurbished-laptop.html",
       "status": "In Stock"
     }
   }

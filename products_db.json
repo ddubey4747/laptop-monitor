@@ -1928,7 +1928,7 @@
       "price_current": "Rs. 27,192.00",
       "price_original": "Rs. 44,990.00",
       "link": "https://in.store.asus.com/student-laptop-asus-vivobook-go-15-e1504fa-nj130ws-refurbished-laptop.html",
-      "status": "In Stock"
+      "status": "Out of Stock"
     },
     "90NB16G1-M004W0-RF": {
       "name": "ASUS Zenbook A14 UX3407RA-QD054WS (Refurbished Laptop)",
@@ -2088,7 +2088,7 @@
       "price_current": "Rs. 61,592.00",
       "price_original": "Rs. 98,990.00",
       "link": "https://in.store.asus.com/qualcomm-ai-powered-light-weight-laptop-asus-vivobook-s16-s3607qa-sh079ws-refurbished-laptop.html",
-      "status": "In Stock"
+      "status": "Out of Stock"
     },
     "90NB14F3-M00N30-RF": {
       "name": "ASUS Zenbook S 14 OLED UX5406SA-PZ7761WS (Refurbished Laptop)",
@@ -2104,7 +2104,7 @@
       "price_current": "Rs. 52,792.00",
       "price_original": "Rs. 81,990.00",
       "link": "https://in.store.asus.com/amd-ai-powered-light-weight-laptop-asus-vivobook-14-m1407ka-ly131ws-refurbished-laptop.html",
-      "status": "In Stock"
+      "status": "Out of Stock"
     }
   }
 }

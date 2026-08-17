@@ -331,8 +331,8 @@
     "83err000r0": {
       "name": "IdeaPad Slim 3 15 - Intel i5, 16 GB RAM, 512 SSD",
       "part_number": "83err000r0",
-      "price_current": "Rs. 36,890",
-      "price_original": "Rs. 37,350",
+      "price_current": "Rs. 45,691",
+      "price_original": "Rs. 48,307",
       "link": "https://www.lenovo.com/in/outletin/en/p/laptops/ideapad/ideapad-s-series/ideapad-slim-3i-gen-8-15-inch-intel/83err000r0",
       "status": "In Stock"
     },
@@ -1302,6 +1302,14 @@
       "price_current": "Rs. 45,590",
       "price_original": "Rs. 90,879",
       "link": "https://www.lenovo.com/in/outletin/en/p/laptops/thinkbook/88ips502083/83j7r000r0",
+      "status": "In Stock"
+    },
+    "83n3r001r0": {
+      "name": "IdeaPad Slim 3 15 - Snapdragon X1, 16 GB RAM, 512 SSD",
+      "part_number": "83n3r001r0",
+      "price_current": "Rs. 46,991",
+      "price_original": "Rs. 80,404",
+      "link": "https://www.lenovo.com/in/outletin/en/p/laptops/ideapad/ideapad-s-series/lenovo-ideapad-slim-3x-gen-10-15-inch-snapdragon/83n3r001r0",
       "status": "In Stock"
     }
   },

@@ -1495,6 +1495,14 @@
       "price_original": "Rs. 57,900",
       "link": "https://www.lenovo.com/in/outletin/en/p/laptops/ideapad/ideapad-s-series/88ips301549/82h7r001r0",
       "status": "In Stock"
+    },
+    "82lxr000r0": {
+      "name": "IdeaPad 1 15 - N4500, 8 GB RAM, 512 SSD",
+      "part_number": "82lxr000r0",
+      "price_current": "Rs. 34,691",
+      "price_original": "Rs. 35,493",
+      "link": "https://www.lenovo.com/in/outletin/en/p/laptops/ideapad/ideapad-100/ideapad-1i-gen-7-(15-inch-intel)/82lxr000r0",
+      "status": "In Stock"
     }
   },
   "asus": {
@@ -2128,7 +2136,7 @@
       "price_current": "Rs. 49,592.00",
       "price_original": "Rs. 126,990.00",
       "link": "https://in.store.asus.com/ai-powered-light-weight-laptop-asus-vivobook-16-x1607qa-mb049ws-refurbished-laptop.html",
-      "status": "In Stock"
+      "status": "Out of Stock"
     },
     "90NB15Z2-M005U0-RF": {
       "name": "ASUS Vivobook 16 X1607QA-MB050WS;Copilot+ PC(Refurbished Laptop)",

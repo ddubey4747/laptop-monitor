@@ -1685,10 +1685,10 @@
     "90NR0LF1-M00910-RF": {
       "name": "ROG Strix SCAR 18 G835LX-SA187WS (Refurbished Laptop)",
       "part_number": "90NR0LF1-M00910-RF",
-      "price_current": "Rs. 349,993.00",
+      "price_current": "Rs. 335,993.00",
       "price_original": "Rs. 539,990.00",
       "link": "https://in.store.asus.com/gaming-laptop-rog-strix-scar-18-g835lx-sa187ws-refurbished-laptop.html",
-      "status": "Out of Stock"
+      "status": "In Stock"
     },
     "90NR0LL1-M00050-RF": {
       "name": "ROG Strix G16 G615JHR-S5005WS (Refurbished Laptop)",
@@ -1709,7 +1709,7 @@
     "90NR0LR1-M007K0-RF": {
       "name": "ROG Strix G16 G615LR-S5190WS (Refurbished Laptop)",
       "part_number": "90NR0LR1-M007K0-RF",
-      "price_current": "Rs. 195,993.00",
+      "price_current": "Rs. 174,993.00",
       "price_original": "Rs. 335,990.00",
       "link": "https://in.store.asus.com/gaming-laptop-rog-strix-g16-g615lr-s5190ws-refurbished-laptop.html",
       "status": "Out of Stock"
@@ -1976,7 +1976,7 @@
       "price_current": "Rs. 31,992.00",
       "price_original": "Rs. 50,990.00",
       "link": "https://in.store.asus.com/light-weight-asus-vivobook-14-x1404va-eb321ws-refurbished-laptop.html",
-      "status": "Out of Stock"
+      "status": "In Stock"
     },
     "90NB0ZS2-M01AV0-RF": {
       "name": "ASUS Vivobook Go 14 E1404FA-EB2322WS (Refurbished Laptop)",
@@ -2313,6 +2313,22 @@
       "price_original": "Rs. 104,990.00",
       "link": "https://in.store.asus.com/asus-tuf-mini-tower-gaming-desktop-t500mv-13420h022ws-refurbished-gaming-desktop.html",
       "status": "In Stock"
+    },
+    "90NB10J2-M00CU0-RF": {
+      "name": "ASUS Vivobook 15 X1504VA-NJ522WS (Refurbished Laptop)",
+      "part_number": "90NB10J2-M00CU0-RF",
+      "price_current": "Rs. 39,192.00",
+      "price_original": "Rs. 74,990.00",
+      "link": "https://in.store.asus.com/light-weight-laptop-asus-vivobook-15-x1504va-nj522ws-refurbished-laptop.html",
+      "status": "In Stock"
+    },
+    "90NB15A2-M007P0-RF": {
+      "name": "ASUS Vivobook 16 X1607CA-MB142WS (Refurbished Laptop)",
+      "part_number": "90NB15A2-M007P0-RF",
+      "price_current": "Rs. 56,792.00",
+      "price_original": "Rs. 92,990.00",
+      "link": "https://in.store.asus.com/ai-powered-light-weight-laptop-asus-vivobook-16-x1607ca-mb142ws-refurbished-laptop.html",
+      "status": "Out of Stock"
     }
   }
 }

@@ -2337,6 +2337,14 @@
       "price_original": "Rs. 92,990.00",
       "link": "https://in.store.asus.com/ai-powered-light-weight-laptop-asus-vivobook-16-x1607ca-mb142ws-refurbished-laptop.html",
       "status": "Out of Stock"
+    },
+    "90NB14W3-M01H70-RF": {
+      "name": "ASUS Zenbook 14 UX3405CA-QL1016WS (Refurbished Laptop)",
+      "part_number": "90NB14W3-M01H70-RF",
+      "price_current": "Rs. 153,990.00",
+      "price_original": "",
+      "link": "https://in.store.asus.com/asus-zenbook-14-ux3405ca-ql1016ws-oled-touchscreen-ai-laptop-refurbished-laptop.html",
+      "status": "Out of Stock"
     }
   }
 }

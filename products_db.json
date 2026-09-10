@@ -2353,6 +2353,14 @@
       "price_original": "Rs. 153,990.00",
       "link": "https://in.store.asus.com/asus-zenbook-14-ux3405ca-ql1016ws-oled-touchscreen-ai-laptop-refurbished-laptop.html",
       "status": "Out of Stock"
+    },
+    "90NB0ZR1-M04J40-RF": {
+      "name": "ASUS Vivobook Go 15 E1504FA-BQ2113WS (Refurbished Laptop)",
+      "part_number": "90NB0ZR1-M04J40-RF",
+      "price_current": "Rs. 59,493.00",
+      "price_original": "Rs. 87,990.00",
+      "link": "https://in.store.asus.com/asus-vivobook-go-15-e1504fa-bq2113ws-amd-ryzen-student-laptop-refurbished-laptop.html",
+      "status": "In Stock"
     }
   }
 }

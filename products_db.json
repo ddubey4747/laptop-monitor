@@ -1623,6 +1623,86 @@
       "price_original": "Rs. 37,054",
       "link": "https://www.lenovo.com/in/outletin/en/p/laptops/lenovo-laptops/v-series/lenovo-v14-gen-4-14-inch-amd/82yxctr1ww-pf5517ft",
       "status": "In Stock"
+    },
+    "83hxctr1ww-yx0hh7vz": {
+      "name": "IdeaPad Slim 5 14AKP10",
+      "part_number": "83hxctr1ww-yx0hh7vz",
+      "price_current": "Rs. 73,591",
+      "price_original": "Rs. 77,601",
+      "link": "https://www.lenovo.com/in/outletin/en/p/laptops/ideapad/ideapad-s-series/lenovo-ideapad-slim-5-gen-10-14-inch-amd/83hxctr1ww-yx0hh7vz",
+      "status": "In Stock"
+    },
+    "83ndctr1ww-yx0jfq7v": {
+      "name": "IdeaPad Slim 5 16IAH10",
+      "part_number": "83ndctr1ww-yx0jfq7v",
+      "price_current": "Rs. 73,591",
+      "price_original": "Rs. 78,863",
+      "link": "https://www.lenovo.com/in/outletin/en/p/laptops/ideapad/ideapad-s-series/lenovo-ideapad-slim-5i-gen-10-16-inch-intel/83ndctr1ww-yx0jfq7v",
+      "status": "In Stock"
+    },
+    "f0hnctr1ww-mp2zh4z4": {
+      "name": "IdeaCentre AIO",
+      "part_number": "f0hnctr1ww-mp2zh4z4",
+      "price_current": "Rs. 75,691",
+      "price_original": "Rs. 1,16,401",
+      "link": "https://www.lenovo.com/in/outletin/en/p/desktops/ideacentre/aio-500-series/ideacentre-aio-i-gen-9-(24-inch-intel)/f0hnctr1ww-mp2zh4z4",
+      "status": "In Stock"
+    },
+    "83kgctr1ww-mp2sh720": {
+      "name": "Yoga Pro 7 14AKP10",
+      "part_number": "83kgctr1ww-mp2sh720",
+      "price_current": "Rs. 91,090",
+      "price_original": "Rs. 1,15,000",
+      "link": "https://www.lenovo.com/in/outletin/en/p/laptops/yoga/yoga-pro-series/lenovo-yoga-pro-7-gen-10-14-inch-amd/83kgctr1ww-mp2sh720",
+      "status": "In Stock"
+    },
+    "83kgctr1ww-mp2sb181": {
+      "name": "Yoga Pro 7 14AKP10",
+      "part_number": "83kgctr1ww-mp2sb181",
+      "price_current": "Rs. 91,090",
+      "price_original": "Rs. 1,31,436",
+      "link": "https://www.lenovo.com/in/outletin/en/p/laptops/yoga/yoga-pro-series/lenovo-yoga-pro-7-gen-10-14-inch-amd/83kgctr1ww-mp2sb181",
+      "status": "In Stock"
+    },
+    "83kgctr1ww-mp2sf2dh": {
+      "name": "Yoga Pro 7 14AKP10",
+      "part_number": "83kgctr1ww-mp2sf2dh",
+      "price_current": "Rs. 91,090",
+      "price_original": "Rs. 1,31,436",
+      "link": "https://www.lenovo.com/in/outletin/en/p/laptops/yoga/yoga-pro-series/lenovo-yoga-pro-7-gen-10-14-inch-amd/83kgctr1ww-mp2sf2dh",
+      "status": "In Stock"
+    },
+    "83kgctr1ww-mp2sb0ze": {
+      "name": "Yoga Pro 7 14AKP10",
+      "part_number": "83kgctr1ww-mp2sb0ze",
+      "price_current": "Rs. 91,090",
+      "price_original": "Rs. 1,15,000",
+      "link": "https://www.lenovo.com/in/outletin/en/p/laptops/yoga/yoga-pro-series/lenovo-yoga-pro-7-gen-10-14-inch-amd/83kgctr1ww-mp2sb0ze",
+      "status": "In Stock"
+    },
+    "f0j2ctr1ww-mp3017pf": {
+      "name": "ThinkCentre YOGA AIO 27IAH10",
+      "part_number": "f0j2ctr1ww-mp3017pf",
+      "price_current": "Rs. 98,091",
+      "price_original": "Rs. 2,44,441",
+      "link": "https://www.lenovo.com/in/outletin/en/p/desktops/ideacentre/yoga-a-series/yoga-aio-27i-gen-10-27-inch-intel/f0j2ctr1ww-mp3017pf",
+      "status": "In Stock"
+    },
+    "83kfctr1ww-mp2t19lp": {
+      "name": "Yoga Pro 7 14IAH10",
+      "part_number": "83kfctr1ww-mp2t19lp",
+      "price_current": "Rs. 1,01,591",
+      "price_original": "Rs. 1,15,001",
+      "link": "https://www.lenovo.com/in/outletin/en/p/laptops/yoga/yoga-pro-series/lenovo-yoga-pro-7i-gen-10-aura-edition-14-inch-intel/83kfctr1ww-mp2t19lp",
+      "status": "In Stock"
+    },
+    "83kfctr1ww-mp2seqtq": {
+      "name": "Yoga Pro 7 14IAH10",
+      "part_number": "83kfctr1ww-mp2seqtq",
+      "price_current": "Rs. 1,01,591",
+      "price_original": "Rs. 1,15,001",
+      "link": "https://www.lenovo.com/in/outletin/en/p/laptops/yoga/yoga-pro-series/lenovo-yoga-pro-7i-gen-10-aura-edition-14-inch-intel/83kfctr1ww-mp2seqtq",
+      "status": "In Stock"
     }
   },
   "asus": {

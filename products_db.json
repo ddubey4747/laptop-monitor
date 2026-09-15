@@ -1743,6 +1743,22 @@
       "price_original": "Rs. 1,15,001",
       "link": "https://www.lenovo.com/in/outletin/en/p/laptops/yoga/yoga-pro-series/lenovo-yoga-pro-7i-gen-10-aura-edition-14-inch-intel/83kfctr1ww-mp2s4cmj",
       "status": "In Stock"
+    },
+    "83jxctr1ww-mp2r5zxb": {
+      "name": "Yoga Slim 7 14ILL10",
+      "part_number": "83jxctr1ww-mp2r5zxb",
+      "price_current": "Rs. 1,01,591",
+      "price_original": "Rs. 1,55,298",
+      "link": "https://www.lenovo.com/in/outletin/en/p/laptops/yoga/yoga-s-series/lenovo-yoga-slim-7i-aura-edition-gen-10-14-inch-intel/83jxctr1ww-mp2r5zxb",
+      "status": "In Stock"
+    },
+    "83kfctr1ww-mp2q0ram": {
+      "name": "Yoga Pro 7 14IAH10",
+      "part_number": "83kfctr1ww-mp2q0ram",
+      "price_current": "Rs. 1,01,591",
+      "price_original": "Rs. 1,15,001",
+      "link": "https://www.lenovo.com/in/outletin/en/p/laptops/yoga/yoga-pro-series/lenovo-yoga-pro-7i-gen-10-aura-edition-14-inch-intel/83kfctr1ww-mp2q0ram",
+      "status": "In Stock"
     }
   },
   "asus": {

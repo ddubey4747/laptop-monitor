@@ -1823,6 +1823,22 @@
       "price_original": "Rs. 74,663",
       "link": "https://www.lenovo.com/in/outletin/en/p/laptops/thinkpad/thinkpade/thinkpad-e14-gen-5-14-inch-intel/21jkr011r0",
       "status": "In Stock"
+    },
+    "21mwr001r0": {
+      "name": "ThinkBook 16 - AMD Ryzen 5, 16 GB RAM, 512 SSD",
+      "part_number": "21mwr001r0",
+      "price_current": "Rs. 43,791",
+      "price_original": "Rs. 65,476",
+      "link": "https://www.lenovo.com/in/outletin/en/p/laptops/thinkbook/thinkbook-series/lenovo-thinkbook-16-gen-7-16-inch-amd/21mwr001r0",
+      "status": "In Stock"
+    },
+    "82ndr003r0": {
+      "name": "Yoga 6 13 - AMD Ryzen 5, 16 GB RAM, 512 GB SSD",
+      "part_number": "82ndr003r0",
+      "price_current": "Rs. 49,090",
+      "price_original": "Rs. 1,01,743",
+      "link": "https://www.lenovo.com/in/outletin/en/p/laptops/yoga/yoga-2-in-1-series/yoga-6/82ndr003r0",
+      "status": "In Stock"
     }
   },
   "asus": {
@@ -2648,7 +2664,7 @@
       "price_current": "Rs. 102,193.00",
       "price_original": "Rs. 153,990.00",
       "link": "https://in.store.asus.com/asus-zenbook-14-ux3405ca-ql1016ws-oled-touchscreen-ai-laptop-refurbished-laptop.html",
-      "status": "Out of Stock"
+      "status": "In Stock"
     },
     "90NB0ZR1-M04J40-RF": {
       "name": "ASUS Vivobook Go 15 E1504FA-BQ2113WS (Refurbished Laptop)",
@@ -2657,6 +2673,30 @@
       "price_original": "Rs. 87,990.00",
       "link": "https://in.store.asus.com/asus-vivobook-go-15-e1504fa-bq2113ws-amd-ryzen-student-laptop-refurbished-laptop.html",
       "status": "In Stock"
+    },
+    "90NR0QE7-M00090-RF": {
+      "name": "ASUS TUF Gaming A15 FA506NCQ-HN009WS (Refurbished Laptop)",
+      "part_number": "90NR0QE7-M00090-RF",
+      "price_current": "Rs. 64,393.00",
+      "price_original": "Rs. 140,990.00",
+      "link": "https://in.store.asus.com/asus-tuf-gaming-a15-fa506ncq-hn009ws-gaming-laptop-refurbished-laptop.html",
+      "status": "Out of Stock"
+    },
+    "90NR0QE7-M00070-RF": {
+      "name": "ASUS TUF Gaming A15 FA506NCQ-HN007WS (Refurbished Laptop)",
+      "part_number": "90NR0QE7-M00070-RF",
+      "price_current": "Rs. 58,093.00",
+      "price_original": "Rs. 131,990.00",
+      "link": "https://in.store.asus.com/asus-tuf-gaming-a15-fa506ncq-hn007ws-gaming-refurbished-laptop.html",
+      "status": "Out of Stock"
+    },
+    "90NB1671-M008D0-RF": {
+      "name": "ASUS Vivobook S16 S3607VA-RP114WS (Refurbished Laptop)",
+      "part_number": "90NB1671-M008D0-RF",
+      "price_current": "Rs. 55,192.00",
+      "price_original": "Rs. 85,990.00",
+      "link": "https://in.store.asus.com/light-weight-asus-vivobook-s16-s3607va-rp114ws-refurbished-laptop.html",
+      "status": "Out of Stock"
     }
   }
 }

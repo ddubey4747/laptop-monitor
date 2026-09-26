@@ -3,8 +3,8 @@
     "21jkr007r0": {
       "name": "ThinkPad E14 - Intel i3, 8 GB RAM, 512 SSD",
       "part_number": "21jkr007r0",
-      "price_current": "Rs. 44,191",
-      "price_original": "Rs. 75,657",
+      "price_current": "Rs. 49,090",
+      "price_original": "Rs. 75,656",
       "link": "https://www.lenovo.com/in/outletin/en/p/laptops/thinkpad/thinkpade/thinkpad-e14-gen-5-14-inch-intel/21jkr007r0",
       "status": "In Stock"
     },
@@ -483,7 +483,7 @@
     "21jkr008r0": {
       "name": "ThinkPad E14 - Intel i3, 8 GB RAM, 512 SSD",
       "part_number": "21jkr008r0",
-      "price_current": "Rs. 59,590",
+      "price_current": "Rs. 49,090",
       "price_original": "Rs. 87,300",
       "link": "https://www.lenovo.com/in/outletin/en/p/laptops/thinkpad/thinkpade/thinkpad-e14-gen-5-14-inch-intel/21jkr008r0",
       "status": "In Stock"
@@ -1838,6 +1838,14 @@
       "price_current": "Rs. 49,090",
       "price_original": "Rs. 1,01,743",
       "link": "https://www.lenovo.com/in/outletin/en/p/laptops/yoga/yoga-2-in-1-series/yoga-6/82ndr003r0",
+      "status": "In Stock"
+    },
+    "83ccr006r0": {
+      "name": "Lenovo V15 - Intel i5, 8 GB RAM, 512 SSD",
+      "part_number": "83ccr006r0",
+      "price_current": "Rs. 49,090",
+      "price_original": "Rs. 69,840",
+      "link": "https://www.lenovo.com/in/outletin/en/p/laptops/lenovo-laptops/v-series/lenovo-v15-gen-4-15-inch-intel/83ccr006r0",
       "status": "In Stock"
     }
   },

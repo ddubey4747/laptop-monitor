@@ -1467,8 +1467,8 @@
     "82x7r00br0": {
       "name": "IdeaPad Slim 3 15 - Intel i3, 8 GB RAM, 512 GB SSD",
       "part_number": "82x7r00br0",
-      "price_current": "Rs. 42,091",
-      "price_original": "Rs. 64,011",
+      "price_current": "Rs. 43,490",
+      "price_original": "Rs. 64,010",
       "link": "https://www.lenovo.com/in/outletin/en/p/laptops/ideapad/ideapad-s-series/ideapad-slim-3i-gen-8-15-inch-intel/82x7r00br0",
       "status": "In Stock"
     },
@@ -1904,7 +1904,7 @@
       "price_current": "Rs. 54,392.00",
       "price_original": "Rs. 84,990.00",
       "link": "https://in.store.asus.com/light-weight-laptop-asus-vivobook-16-x1605va-sh1952ws-refurbished-laptop.html",
-      "status": "Out of Stock"
+      "status": "In Stock"
     },
     "90NB10W2-M005B0-RF": {
       "name": "ASUS Vivobook S14 Flip TP3402VAB-LZ542WS (Refurbished Laptop)",
@@ -2056,7 +2056,7 @@
       "price_current": "Rs. 111,993.00",
       "price_original": "Rs. 287,990.00",
       "link": "https://in.store.asus.com/gaming-laptop-rog-strix-g16-g615jhr-s5005ws-refurbished-laptop.html",
-      "status": "Out of Stock"
+      "status": "In Stock"
     },
     "90NR0LN1-M000V0-RF": {
       "name": "ROG Strix G16 G615LP-S5022WS (Refurbished Laptop)",
@@ -2133,10 +2133,10 @@
     "90NB15H1-M006L0-RF": {
       "name": "ASUS Vivobook 14 M1407KA-LY132WS (Refurbished Laptop)",
       "part_number": "90NB15H1-M006L0-RF",
-      "price_current": "Rs. 44,392.00",
+      "price_current": "Rs. 52,792.00",
       "price_original": "Rs. 81,990.00",
       "link": "https://in.store.asus.com/amd-ai-powered-light-weight-laptop-asus-vivobook-14-m1407ka-ly132ws-refurbished-laptop.html",
-      "status": "Out of Stock"
+      "status": "In Stock"
     },
     "90NX08E1-M000P0-RF": {
       "name": "ASUS ExpertBook P3 P3405CVA-LY0015WS (Refurbished Laptop)",
@@ -2173,10 +2173,10 @@
     "90NR0N06-M004X0-RF": {
       "name": "ASUS TUF Gaming F16 FX677VU-RL055WS (Refurbished Laptop)",
       "part_number": "90NR0N06-M004X0-RF",
-      "price_current": "Rs. 68,593.00",
-      "price_original": "Rs. 107,990.00",
+      "price_current": "Rs. 102,893.00",
+      "price_original": "Rs. 213,990.00",
       "link": "https://in.store.asus.com/gaming-laptop-asus-tuf-gaming-f16-fx677vu-rl055ws-refurbished-laptop.html",
-      "status": "Out of Stock"
+      "status": "In Stock"
     },
     "90NB10W1-M00SK0-RF": {
       "name": "ASUS Vivobook S14 Flip TP3402VAO-LZ619WS (Refurbished Laptop)",
@@ -2440,7 +2440,7 @@
       "price_current": "Rs. 88,193.00",
       "price_original": "Rs. 191,990.00",
       "link": "https://in.store.asus.com/asus-zenbook-14-ux3405ca-ql1014ws-oled-touchscreen-ai-laptop-refurbished-laptop.html",
-      "status": "Out of Stock"
+      "status": "In Stock"
     },
     "90NB13Y3-M01PS0-RF": {
       "name": "ASUS Vivobook 15 X1504VAP-BQ1543WS (Refurbished Laptop)",
@@ -2728,6 +2728,62 @@
       "price_current": "Rs. 55,192.00",
       "price_original": "Rs. 85,990.00",
       "link": "https://in.store.asus.com/light-weight-asus-vivobook-s16-s3607va-rp114ws-refurbished-laptop.html",
+      "status": "Out of Stock"
+    },
+    "90NB0ZR2-M02LE0-RF": {
+      "name": "ASUS Vivobook Go 15 E1504FA-NJ5542WS (Refurbished Laptop)",
+      "part_number": "90NB0ZR2-M02LE0-RF",
+      "price_current": "Rs. 33,592.00",
+      "price_original": "Rs. 55,990.00",
+      "link": "https://in.store.asus.com/student-laptop-asus-vivobook-go-15-e1504fa-nj5542ws-refurbished-laptop.html",
+      "status": "Out of Stock"
+    },
+    "90NB10N2-M021S0-RF": {
+      "name": "ASUS Vivobook 16 X1605VA-MB1627WS (Refurbished Laptop)",
+      "part_number": "90NB10N2-M021S0-RF",
+      "price_current": "Rs. 47,992.00",
+      "price_original": "Rs. 72,990.00",
+      "link": "https://in.store.asus.com/everyday-laptops-asus-vivobook-16-x1605va-mb1627ws-refurbished-laptop.html",
+      "status": "Out of Stock"
+    },
+    "90NB16J1-M005Z0-RF": {
+      "name": "ASUS Vivobook S14 S3407CA-LY084WS (Refurbished Laptop)",
+      "part_number": "90NB16J1-M005Z0-RF",
+      "price_current": "Rs. 63,693.00",
+      "price_original": "Rs. 165,990.00",
+      "link": "https://in.store.asus.com/ai-powered-light-weight-laptop-asus-vivobook-s14-s3407ca-ly084ws-refurbished-laptop.html",
+      "status": "Out of Stock"
+    },
+    "90NR0JY1-M003U0-RF": {
+      "name": "ROG Flow Z13 GZ302EA-RU420WS (Refurbished Laptop)",
+      "part_number": "90NR0JY1-M003U0-RF",
+      "price_current": "Rs. 139,993.00",
+      "price_original": "Rs. 239,990.00",
+      "link": "https://in.store.asus.com/gaming-laptop-rog-flow-z13-gz302ea-ru420ws-refurbished-laptop.html",
+      "status": "Out of Stock"
+    },
+    "90NR0LJ1-M00540-RF": {
+      "name": "ROG Strix G16 G615LM-S5128WS (Refurbished Laptop)",
+      "part_number": "90NR0LJ1-M00540-RF",
+      "price_current": "Rs. 139,993.00",
+      "price_original": "Rs. 341,990.00",
+      "link": "https://in.store.asus.com/gaming-laptop-rog-strix-g16-g615lm-s5128ws-refurbished-laptop.html",
+      "status": "Out of Stock"
+    },
+    "90NB15N2-M00080-RF": {
+      "name": "ASUS Vivobook 16 X1605VA-MB1628WS (Refurbished Laptop)",
+      "part_number": "90NB15N2-M00080-RF",
+      "price_current": "Rs. 54,392.00",
+      "price_original": "Rs. 87,990.00",
+      "link": "https://in.store.asus.com/everyday-laptop-asus-vivobook-16-x1605va-mb1628ws-refurbished-laptop.html",
+      "status": "In Stock"
+    },
+    "90NB0ZK3-M00700-RF": {
+      "name": "ASUS Vivobook S 15 OLED S5504VA-MA943WS (Refurbished Laptop)",
+      "part_number": "90NB0ZK3-M00700-RF",
+      "price_current": "Rs. 62,993.00",
+      "price_original": "Rs. 116,990.00",
+      "link": "https://in.store.asus.com/light-weight-asus-vivobook-s-15-oled-s5504va-ma943ws-refurbished-laptop.html",
       "status": "Out of Stock"
     }
   }

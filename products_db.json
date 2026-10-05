@@ -1975,6 +1975,14 @@
       "price_original": "Rs. 1,15,896",
       "link": "https://www.lenovo.com/in/outletin/en/p/laptops/thinkbook/thinkbook-series/lenovo-thinkbook-14-gen-8-14-inch-intel/21sgr002r0",
       "status": "In Stock"
+    },
+    "13b9r001r0": {
+      "name": "ThinkCentre neo 50q - Intel i5, 16 GB RAM, 512 SSD",
+      "part_number": "13b9r001r0",
+      "price_current": "Rs. 58,791",
+      "price_original": "Rs. 1,60,051",
+      "link": "https://www.lenovo.com/in/outletin/en/p/desktops/thinkcentre/thinkcentre-neo-series/lenovo-thinkcentre-neo-50q-gen-5-(intel)-tiny-pc/13b9r001r0",
+      "status": "In Stock"
     }
   },
   "asus": {
@@ -2616,7 +2624,7 @@
       "price_current": "Rs. 49,592.00",
       "price_original": "Rs. 84,990.00",
       "link": "https://in.store.asus.com/ai-powered-light-weight-laptop-asus-vivobook-16-x1607qa-mb050ws-refurbished-laptop.html",
-      "status": "In Stock"
+      "status": "Out of Stock"
     },
     "90NR0M81-M00080-RF": {
       "name": "ROG Zephyrus G14 GA403UM-QS007WS (Refurbished Laptop)",
@@ -2896,7 +2904,7 @@
       "price_current": "Rs. 143,992.00",
       "price_original": "Rs. 272,990.00",
       "link": "https://in.store.asus.com/asus-zenbook-s14-ux5406aa-su361ws-touchscreen-oled-copilot-pc-refurbished-laptop.html",
-      "status": "Out of Stock"
+      "status": "In Stock"
     },
     "90NB16Q5-M00980-RF": {
       "name": "ASUS Zenbook S 14 UX5406AA-SU188WS;Copilot+ PC(Refurbished Laptop)",
@@ -2904,7 +2912,7 @@
       "price_current": "Rs. 199,992.00",
       "price_original": "Rs. 377,990.00",
       "link": "https://in.store.asus.com/asus-zenbook-s14-ux5406aa-su188ws-touchscreen-oled-copilot-pc-refurbished-laptop.html",
-      "status": "Out of Stock"
+      "status": "In Stock"
     },
     "90NB1842-M006H0-RF": {
       "name": "ASUS Vivobook 15 M1502NAQ-BQ121WS (Refurbished Laptop)",
@@ -2912,7 +2920,7 @@
       "price_current": "Rs. 52,492.00",
       "price_original": "Rs. 107,990.00",
       "link": "https://in.store.asus.com/asus-vivobook-15-m1502naq-bq121ws-amd-ryzen-laptop-html-refurbished-laptop.html",
-      "status": "Out of Stock"
+      "status": "In Stock"
     },
     "90NB0ZS1-M02220-RF": {
       "name": "ASUS Vivobook Go 14 E1404FA-EB1224WS (Refurbished Laptop)",
@@ -2920,7 +2928,7 @@
       "price_current": "Rs. 32,792.00",
       "price_original": "Rs. 72,990.00",
       "link": "https://in.store.asus.com/asus-vivobook-go-14-e1404fa-eb1224ws-amd-ryzen-student-laptop-refurbished-laptop.html",
-      "status": "Out of Stock"
+      "status": "In Stock"
     },
     "90NR0KX7-M00330-RF": {
       "name": "ROG Strix G16 G614PH-RV073WS (Refurbished Laptop)",
@@ -2928,7 +2936,7 @@
       "price_current": "Rs. 159,593.00",
       "price_original": "Rs. 260,990.00",
       "link": "https://in.store.asus.com/gaming-laptop-rog-strix-g16-g614ph-rv073ws-refurbished-laptop.html",
-      "status": "Out of Stock"
+      "status": "In Stock"
     },
     "90NR0KS1-M008K0-RF": {
       "name": "ASUS TUF Gaming A16 FA608UH-RV112WS (Refurbished Laptop)",
@@ -2936,7 +2944,7 @@
       "price_current": "Rs. 97,993.00",
       "price_original": "Rs. 298,990.00",
       "link": "https://in.store.asus.com/gaming-laptop-asus-tuf-gaming-a16-fa608uh-rv112ws-refurbished-laptop.html",
-      "status": "Out of Stock"
+      "status": "In Stock"
     },
     "90NB0XJ1-M000R0-RF": {
       "name": "ASUS ProArt Studiobook 16 OLED H7600ZW-L711WS (Refurbished Laptop)",
@@ -2944,7 +2952,7 @@
       "price_current": "Rs. 143,994.00",
       "price_original": "Rs. 278,990.00",
       "link": "https://in.store.asus.com/asus-proart-studiobook-16-oled-h7600zw-l711ws-refurbished-laptop.html",
-      "status": "Out of Stock"
+      "status": "In Stock"
     },
     "90NB14F3-M00UZ0-RF": {
       "name": "ASUS Zenbook S 14 UX5406SA-PZ555WS;Copilot+ PC(Refurbished Laptop)",
@@ -2952,7 +2960,7 @@
       "price_current": "Rs. 94,493.00",
       "price_original": "Rs. 219,990.00",
       "link": "https://in.store.asus.com/asus-zenbook-s-14-ux5406sa-pz555ws-oled-touchscreen-copilot-pc-refurbished-laptop.html",
-      "status": "Out of Stock"
+      "status": "In Stock"
     }
   }
 }

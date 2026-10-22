@@ -2135,6 +2135,14 @@
       "price_original": "Rs. 63,332",
       "link": "https://www.lenovo.com/in/outletin/en/p/laptops/ideapad/ideapad-s-series/ideapad-3i-gen-7-14-inch-intel/82rjr000r0",
       "status": "In Stock"
+    },
+    "82x7r00hr0": {
+      "name": "IdeaPad Slim 3 15 - Intel i3, 8 GB RAM, 512 SSD",
+      "part_number": "82x7r00hr0",
+      "price_current": "Rs. 42,091",
+      "price_original": "Rs. 1,16,197",
+      "link": "https://www.lenovo.com/in/outletin/en/p/laptops/ideapad/ideapad-s-series/ideapad-slim-3i-gen-8-15-inch-intel/82x7r00hr0",
+      "status": "In Stock"
     }
   },
   "asus": {
@@ -3152,6 +3160,14 @@
       "price_current": "Rs. 51,990.00",
       "price_original": "Rs. 114,990.00",
       "link": "https://in.store.asus.com/business-ready-asus-expertbook-p1-p1403cva-s61638ws-refurbished-laptop.html",
+      "status": "Out of Stock"
+    },
+    "90PT03W1-M01AA0-RF": {
+      "name": "ASUS AIO V470VAB-KWPE002WS (Refurbished All-In-One)",
+      "part_number": "90PT03W1-M01AA0-RF",
+      "price_current": "Rs. 55,992.00",
+      "price_original": "Rs. 70,990.00",
+      "link": "https://in.store.asus.com/all-in-one-asus-aio-v470vab-kwpe002ws-refurbished-all-in-one.html",
       "status": "Out of Stock"
     }
   }

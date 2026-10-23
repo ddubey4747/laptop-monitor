@@ -3168,7 +3168,47 @@
       "price_current": "Rs. 55,992.00",
       "price_original": "Rs. 70,990.00",
       "link": "https://in.store.asus.com/all-in-one-asus-aio-v470vab-kwpe002ws-refurbished-all-in-one.html",
+      "status": "In Stock"
+    },
+    "90NB16Z2-M001C0-RF": {
+      "name": "ASUS Vivobook 16 M1607GA-MB029WS;Copilot+ PC(Refurbished Laptop)",
+      "part_number": "90NB16Z2-M001C0-RF",
+      "price_current": "Rs. 65,992.00",
+      "price_original": "Rs. 121,990.00",
+      "link": "https://in.store.asus.com/asus-vivobook-16-m1607ga-mb029ws-ai-laptop-html-refurbished-laptop.html",
       "status": "Out of Stock"
+    },
+    "90PT03X1-M01JK0-RF": {
+      "name": "ASUS AiO V440 V440VAB-KWPC001WS (Refurbished All-In-One)",
+      "part_number": "90PT03X1-M01JK0-RF",
+      "price_current": "Rs. 47,992.00",
+      "price_original": "Rs. 59,990.00",
+      "link": "https://in.store.asus.com/all-in-one-asus-aio-v440-v440vab-kwpc001ws-refurbished-all-in-one.html",
+      "status": "In Stock"
+    },
+    "90PT0455-M00CW0-RF": {
+      "name": "ASUS AIO VM670KA-WPF004WS (Refurbished All-In-One)",
+      "part_number": "90PT0455-M00CW0-RF",
+      "price_current": "Rs. 105,592.00",
+      "price_original": "Rs. 131,990.00",
+      "link": "https://in.store.asus.com/all-in-one-asus-aio-vm670ka-wpf004ws-refurbished-all-in-one.html",
+      "status": "In Stock"
+    },
+    "90PT03W1-M00FR0-RF": {
+      "name": "ASUS AiO V470 V470VA-KWPE006WS (Refurbished All-In-One)",
+      "part_number": "90PT03W1-M00FR0-RF",
+      "price_current": "Rs. 79,992.00",
+      "price_original": "Rs. 99,990.00",
+      "link": "https://in.store.asus.com/all-in-one-asus-aio-v470-v470va-kwpe006ws-refurbished-all-in-one.html",
+      "status": "In Stock"
+    },
+    "90PT03W1-M00FP0-RF": {
+      "name": "ASUS AiO V470 V470VA-KWPE005WS (Refurbished All-In-One)",
+      "part_number": "90PT03W1-M00FP0-RF",
+      "price_current": "Rs. 66,392.00",
+      "price_original": "Rs. 82,990.00",
+      "link": "https://in.store.asus.com/all-in-one-asus-aio-v470-v470va-kwpe005ws-refurbished-all-in-one.html",
+      "status": "In Stock"
     }
   }
 }

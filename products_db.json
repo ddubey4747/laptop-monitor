@@ -1329,10 +1329,10 @@
       "status": "In Stock"
     },
     "f0hmr009r0": {
-      "name": "IdeaCentre AIO 27 - Intel i3, 8 GB RAM, 512 SSD",
+      "name": "IdeaCentre AIO - Intel i3, 8 GB RAM, 512 SSD",
       "part_number": "f0hmr009r0",
-      "price_current": "Rs. 44,191",
-      "price_original": "Rs. 62,362",
+      "price_current": "Rs. 49,090",
+      "price_original": "Rs. 62,361",
       "link": "https://www.lenovo.com/in/outletin/en/p/desktops/ideacentre/aio-500-series/ideacentre-aio-i-gen-9-(27-inch-intel)/f0hmr009r0",
       "status": "In Stock"
     },
@@ -2592,7 +2592,7 @@
       "price_current": "Rs. 153,993.00",
       "price_original": "Rs. 305,990.00",
       "link": "https://in.store.asus.com/gaming-laptop-asus-tuf-gaming-a16-fa608pp-qt014ws-refurbished-laptop.html",
-      "status": "Out of Stock"
+      "status": "In Stock"
     },
     "90NR0NG1-M003F0-RF": {
       "name": "ASUS TUF Gaming F16 FX688JPR-QT043WS (Refurbished Laptop)",
@@ -2672,7 +2672,7 @@
       "price_current": "Rs. 43,992.00",
       "price_original": "Rs. 73,990.00",
       "link": "https://in.store.asus.com/light-weight-laptop-asus-vivobook-15-x1504vap-bq224ws-refurbished-laptop.html",
-      "status": "Out of Stock"
+      "status": "In Stock"
     },
     "90NB17H4-M00C30-RF": {
       "name": "ASUS Zenbook S16 UM5606GA-SR249WS (Refurbished Laptop)",
@@ -2696,7 +2696,7 @@
       "price_current": "Rs. 64,792.00",
       "price_original": "Rs. 147,990.00",
       "link": "https://in.store.asus.com/ai-powered-light-weight-laptop-asus-vivobook-s14-s3407ca-ly057ws-refurbished-laptop.html",
-      "status": "In Stock"
+      "status": "Out of Stock"
     },
     "90NB16I1-M00530-RF": {
       "name": "ASUS Vivobook S16 S3607CA-SH071WS (Refurbished Laptop)",
@@ -2816,7 +2816,7 @@
       "price_current": "Rs. 49,592.00",
       "price_original": "Rs. 126,990.00",
       "link": "https://in.store.asus.com/ai-powered-light-weight-laptop-asus-vivobook-16-x1607qa-mb049ws-refurbished-laptop.html",
-      "status": "Out of Stock"
+      "status": "In Stock"
     },
     "90NB15Z2-M005U0-RF": {
       "name": "ASUS Vivobook 16 X1607QA-MB050WS;Copilot+ PC(Refurbished Laptop)",
@@ -2824,7 +2824,7 @@
       "price_current": "Rs. 49,592.00",
       "price_original": "Rs. 84,990.00",
       "link": "https://in.store.asus.com/ai-powered-light-weight-laptop-asus-vivobook-16-x1607qa-mb050ws-refurbished-laptop.html",
-      "status": "Out of Stock"
+      "status": "In Stock"
     },
     "90NR0M81-M00080-RF": {
       "name": "ROG Zephyrus G14 GA403UM-QS007WS (Refurbished Laptop)",
@@ -3136,7 +3136,7 @@
       "price_current": "Rs. 152,593.00",
       "price_original": "Rs. 260,990.00",
       "link": "https://in.store.asus.com/gaming-laptop-rog-strix-g16-g614ph-rv073ws-refurbished-laptop.html",
-      "status": "Out of Stock"
+      "status": "In Stock"
     },
     "90NR0KS1-M008K0-RF": {
       "name": "ASUS TUF Gaming A16 FA608UH-RV112WS (Refurbished Laptop)",

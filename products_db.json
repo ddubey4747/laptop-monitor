@@ -3345,6 +3345,22 @@
       "price_original": "Rs. 72,990.00",
       "link": "https://in.store.asus.com/asus-vivobook-go-15-e1504fa-bq2117ws-amd-ryzen-student-laptop-refurbished-laptop.html",
       "status": "Out of Stock"
+    },
+    "90NB10J2-M041L0-RF": {
+      "name": "ASUS Vivobook 15 X1504VA-BQ341WS (Refurbished Laptop)",
+      "part_number": "90NB10J2-M041L0-RF",
+      "price_current": "Rs. 34,392.00",
+      "price_original": "Rs. 54,990.00",
+      "link": "https://in.store.asus.com/light-weight-laptop-asus-vivobook-15-x1504va-bq341ws-refurbished-laptop.html",
+      "status": "Out of Stock"
+    },
+    "90NB17I3-M00RU0-RF": {
+      "name": "ASUS Vivobook 15 X1504MA-BQ424WS (Refurbished Laptop)",
+      "part_number": "90NB17I3-M00RU0-RF",
+      "price_current": "Rs. 53,193.00",
+      "price_original": "Rs. 119,990.00",
+      "link": "https://in.store.asus.com/asus-vivobook-15-x1504ma-bq424ws-intel-core-student-laptop-refurbished-laptop.html",
+      "status": "Out of Stock"
     }
   }
 }
